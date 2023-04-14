@@ -19,51 +19,61 @@ function App() {
         };
     };
 
+    const handleArray = (arr) => {
+            let question = "";
+            let explain = "";
+            let check = false;
+        let a, b, c, d, e, n;
+        for(const j of arr) {
+            if (j.includes('A.')) {
+                check = true;
+                a = j;
+                continue;
+            }
+            if (!check) {
+                question += j.replace("Topic 1", "") + " ";
+            } 
+            if (j.includes('B.')) {
+                b = j;
+                continue;
+            } else
+            if (j.includes('C.')) {
+                c = j;
+                continue;
+            } else
+            if (j.includes('D.')) {
+                d = j;
+                continue;
+            } else
+            if (j.includes('E.')) {
+                e = j;
+                continue;
+            } else 
+            if (j.includes('Correct Answer:')) {
+                n = j.replace("Correct Answer: ", "");
+                continue;
+            }
+            if (check) {
+                explain += j;
+            }
+        }
+        return [question, a, b, c, d, e, n, explain];
+    }
+
     const handleData = (data) => {
         const aaa = data.split("Question ");
         console.log('aaa', aaa);
+
         let bbb = [];
         aaa.forEach((element) => {
             if (!element) {
                 return;
             }
-            let a, b, c, d, e, n;
             const temp = element.split('\r\n');
-            let question = "";
-            let explain = "";
-            let check = false;
-            for(const j of temp) {
-                if (j.includes('A.')) {
-                    check = true;
-                    a = j;
-                    continue;
-                }
-                if (!check) {
-                    question += j.replace("Topic 1", "") + " ";
-                } 
-                if (j.includes('B.')) {
-                    b = j;
-                    continue;
-                } else
-                if (j.includes('C.')) {
-                    c = j;
-                    continue;
-                } else
-                if (j.includes('D.')) {
-                    d = j;
-                    continue;
-                } else
-                if (j.includes('E.')) {
-                    e = j;
-                    continue;
-                } else 
-                if (j.includes('Correct Answer:')) {
-                    n = j.replace("Correct Answer: ", "");
-                    continue;
-                }
-                if (check) {
-                    explain += j;
-                }
+            let [question, a, b, c, d, e, n, explain] = handleArray(temp);
+            if (!question) {
+                const temp2 = a.split('\r\n');
+                [question, a, b, c, d, e, n, explain] = handleArray(temp2);
             }
             bbb.push(createData(question, a, b, c, d, e, n, explain));
         });
