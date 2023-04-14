@@ -1,4 +1,4 @@
-Question #2 Topic 1
+Question #2 
 Your company has datacenters in Los Angeles and New York. The company has a Microsoft Azure subscription.
 You are configuring the two datacenters as geo-clustered sites for site resiliency.
 You need to recommend an Azure storage redundancy option.
@@ -21,7 +21,7 @@ https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy https:/
 azure/storage/common/storage-redundancy-grs#read-access-geo-redundant-storage
 Community vote distribution
 B (100%)
-Question #3 Topic 1
+Question #3 
 
 Your company's Azure subscription includes a Basic support plan.
 They would like to request an assessment of an Azure environment's design from Microsoft. This is, however, not supported by the existing plan.
@@ -35,7 +35,7 @@ References:
 https://azure.microsoft.com/en-gb/support/plans/
 Community vote distribution
 B (70%) A (28%)
-Question #4 Topic 1
+Question #4 
 
 You are tasked with deploying Azure virtual machines for your company.
 You need to make use of the appropriate cloud deployment solution.
@@ -46,7 +46,7 @@ B. No
 Correct Answer: B
 Community vote distribution
 B (100%)
-Question #5 Topic 1
+Question #5 
 
 You are tasked with deploying Azure virtual machines for your company.
 You need to make use of the appropriate cloud deployment solution.
@@ -57,7 +57,7 @@ B. No
 Correct Answer: B
 Community vote distribution
 B (100%)
-Question #6 Topic 1
+Question #6 
 
 You are tasked with deploying Azure virtual machines for your company.
 You need to make use of the appropriate cloud deployment solution.
@@ -68,7 +68,7 @@ B. No
 Correct Answer: A
 Community vote distribution
 A (95%) 5%
-Question #7 Topic 1
+Question #7 
 Your developers have created 10 web applications that must be host on Azure.
 You need to determine which Azure web tier plan to host the web apps. The web tier plan must meet the following requirements:
 ✑ The web apps will use custom domains.
@@ -87,7 +87,7 @@ References:
 http://azure.microsoft.com/en-us/pricing/details/websites/
 Community vote distribution
 A (68%) B (30%)
-Question #8 Topic 1
+Question #8 
 
 You are planning to migrate a company to Azure. Each of the company's numerous divisions will have an administrator in place to manage the
 Azure resources used by their respective division.
@@ -100,7 +100,7 @@ B. No
 Correct Answer: B
 Community vote distribution
 B (96%) 4%
-Question #9 Topic 1
+Question #9 
 Your developers have created a portal web app for users in the Miami branch office. The web app will be publicly accessible and used by the
 Miami users to retrieve customer and product information. The web app is currently running in an on-premises test environment.
 You plan to host the web app on Azure.
@@ -120,7 +120,7 @@ References:
 http://azure.microsoft.com/en-us/documentation/articles/azure-subscription-service-limits/
 Community vote distribution
 A (100%)
-Question #10 Topic 1
+Question #10 
 
 Your company is planning to migrate all their virtual machines to an Azure pay-as-you-go subscription. The virtual machines are currently hosted
 on the Hyper-V hosts in a data center.
@@ -132,7 +132,7 @@ B. No
 Correct Answer: B
 Community vote distribution
 B (100%)
-Question #11 Topic 1
+Question #11 
 
 Your company is planning to migrate all their virtual machines to an Azure pay-as-you-go subscription. The virtual machines are currently hosted
 on the Hyper-V hosts in a data center.
@@ -144,7 +144,7 @@ B. No
 Correct Answer: B
 Community vote distribution
 B (100%)
-Question #12 Topic 1
+Question #12 
 
 Your company is planning to migrate all their virtual machines to an Azure pay-as-you-go subscription. The virtual machines are currently hosted
 on the Hyper-V hosts in a data center.
@@ -156,7 +156,7 @@ B. No
 Correct Answer: A
 Community vote distribution
 A (100%)
-Question #13 Topic 1
+Question #13 
 
 You are required to deploy an Artificial Intelligence (AI) solution in Azure.
 You want to make sure that you are able to build, test, and deploy predictive analytics for the solution.
@@ -167,7 +167,7 @@ B. No
 Correct Answer: B
 Community vote distribution
 B (100%)
-Question #14 Topic 1
+Question #14 
 
 Your company's Active Directory forest includes thousands of user accounts.
 You have been informed that all network resources will be migrated to Azure. Thereafter, the on-premises data center will be retired.
@@ -179,7 +179,7 @@ B. No
 Correct Answer: A
 Community vote distribution
 A (100%)
-Question #15 Topic 1
+Question #15 
 
 You are required to deploy an Artificial Intelligence (AI) solution in Azure.
 You want to make sure that you are able to build, test, and deploy predictive analytics for the solution.
@@ -190,7 +190,7 @@ B. No
 Correct Answer: A
 Community vote distribution
 A (100%)
-Question #16 Topic 1
+Question #16 
 
 Your company's infrastructure includes a number of business units that each need a large number of various Azure resources for everyday
 operation.
@@ -203,7 +203,7 @@ B. No
 Correct Answer: B
 Community vote distribution
 B (100%)
-Question #17 Topic 1
+Question #17 
 
 Your company's infrastructure includes a number of business units that each need a large number of various Azure resources for everyday
 operation.
@@ -216,7 +216,7 @@ B. No
 Correct Answer: B
 Community vote distribution
 B (90%) 10%
-Question #18 Topic 1
+Question #18 
 
 Your company's infrastructure includes a number of business units that each need a large number of various Azure resources for everyday
 operation.
@@ -229,7 +229,7 @@ B. No
 Correct Answer: A
 Community vote distribution
 A (100%)
-Question #19 Topic 1
+Question #19 
 
 You are tasked with deploying a critical LOB application, which will be installed on a virtual machine, to Azure.
 You are informed that the application deployment strategy should allow for a guaranteed availability of 99.99 percent. You need to make sure that
@@ -243,7 +243,7 @@ References:
 https://docs.microsoft.com/en-us/azure/availability-zones/az-overview
 Community vote distribution
 B (100%)
-Question #20 Topic 1
+Question #20 
 
 You are tasked with deploying a critical LOB application, which will be installed on a virtual machine, to Azure.
 You are informed that the application deployment strategy should allow for a guaranteed availability of 99.99 percent. You need to make sure that
@@ -257,7 +257,7 @@ References:
 https://docs.microsoft.com/en-us/azure/availability-zones/az-overview
 Community vote distribution
 B (100%)
-Question #21 Topic 1
+Question #21 
 
 You are tasked with deploying a critical LOB application, which will be installed on a virtual machine, to Azure.
 You are informed that the application deployment strategy should allow for a guaranteed availability of 99.99 percent. You need to make sure that
@@ -271,7 +271,7 @@ References:
 https://docs.microsoft.com/en-us/azure/availability-zones/az-overview
 Community vote distribution
 A (87%) 13%
-Question #22 Topic 1
+Question #22 
 
 Your company's developers intend to deploy a large number of custom virtual machines on a weekly basis. They will also be removing these virtual
 machines during the same week it was deployed. Sixty percent of the virtual machines have Windows Server 2016 installed, while the other forty
@@ -284,7 +284,7 @@ B. No
 Correct Answer: B
 Community vote distribution
 B (100%)
-Question #23 Topic 1
+Question #23 
 
 Your company's developers intend to deploy a large number of custom virtual machines on a weekly basis. They will also be removing these virtual
 machines during the same week it was deployed. Sixty percent of the virtual machines have Windows Server 2016 installed, while the other forty
@@ -297,7 +297,7 @@ B. No
 Correct Answer: B
 Community vote distribution
 B (100%)
-Question #24 Topic 1
+Question #24 
 
 Your company's developers intend to deploy a large number of custom virtual machines on a weekly basis. They will also be removing these virtual
 machines during the same week it was deployed. Sixty percent of the virtual machines have Windows Server 2016 installed, while the other forty
@@ -310,7 +310,7 @@ B. No
 Correct Answer: A
 Community vote distribution
 A (64%) B (18%) Other
-Question #25 Topic 1
+Question #25 
 Your company has virtual machines (VMs) hosted in Microsoft Azure. The VMs are located in a single Azure virtual network named VNet1.
 The company has users that work remotely. The remote workers require access to the VMs on VNet1.
 You need to provide access for the remote workers.
@@ -326,7 +326,7 @@ References:
 https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways
 Community vote distribution
 C (100%)
-Question #26 Topic 1
+Question #26 
 
 You have been informed by your superiors of the company's intentions to automate server deployment to Azure. There is, however, some concern
 that administrative credentials could be uncovered during this process.
@@ -338,7 +338,7 @@ B. No
 Correct Answer: B
 Community vote distribution
 B (100%)
-Question #27 Topic 1
+Question #27 
 
 You have been informed by your superiors of the company's intentions to automate server deployment to Azure. There is, however, some concern
 that administrative credentials could be uncovered during this process.
@@ -350,7 +350,7 @@ B. No
 Correct Answer: B
 Community vote distribution
 B (100%)
-Question #28 Topic 1
+Question #28 
 DRAG DROP -
 The company would like to develop a cloud solution by making use of Azure Government. Azure Government can only be used by certain types of
 clients to develop cloud solutions.
@@ -360,7 +360,7 @@ Select and Place:
 Correct Answer:
 References:
 https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-government/2-what-is-azure-government
-Question #29 Topic 1
+Question #29 
 
 Your company has an Azure Active Directory (Azure AD) environment. Users occasionally connect to Azure AD via the Internet.
 You have been tasked with making sure that users who connect to Azure AD via the internet from an unidentified IP address, are automatically
@@ -374,7 +374,7 @@ References:
 https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-sign-in-risk-policy
 Community vote distribution
 A (100%)
-Question #30 Topic 1
+Question #30 
 
 Your company has an Azure Active Directory (Azure AD) environment. Users occasionally connect to Azure AD via the Internet.
 You have been tasked with making sure that users who connect to Azure AD via the internet from an unidentified IP address, are automatically
@@ -388,7 +388,7 @@ References:
 https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howto-sign-in-risk-policy
 Community vote distribution
 B (100%)
-Question #31 Topic 1
+Question #31 
 
 You are planning a strategy to deploy numerous web servers and database servers to Azure.
 This strategy should allow for connection types between the web servers and database servers to be controlled.
@@ -399,7 +399,7 @@ B. No
 Correct Answer: A
 Community vote distribution
 A (92%) 8%
-Question #32 Topic 1
+Question #32 
 
 You are planning a strategy to deploy numerous web servers and database servers to Azure.
 This strategy should allow for connection types between the web servers and database servers to be controlled.
@@ -410,7 +410,7 @@ B. No
 Correct Answer: B
 Community vote distribution
 B (100%)
-Question #33 Topic 1
+Question #33 
 
 Your company's Active Directory forest includes thousands of user accounts.
 You have been informed that all network resources will be migrated to Azure. Thereafter, the on-premises data center will be retired.
@@ -422,7 +422,7 @@ B. No
 Correct Answer: A
 Community vote distribution
 B (99%)
-Question #34 Topic 1
+Question #34 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -444,7 +444,7 @@ the time it takes to code new apps with pre-coded application components built i
 features, search and so on.
 References:
 https://azure.microsoft.com/en-gb/overview/what-is-paas/
-Question #35 Topic 1
+Question #35 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -464,7 +464,7 @@ The most common storage costs are for the disks attached to the virtual machines
 machine such as storage for diagnostic data and virtual machine backups.
 References:
 https://meritsolutions.com/capex-vs-opex-cloud-computing-blog/
-Question #36 Topic 1
+Question #36 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -483,7 +483,7 @@ software and with the appropriate service agreement, will ensure the availabilit
 Reference:
 https://azure.microsoft.com/en-in/overview/what-is-saas/
 https://docs.microsoft.com/en-gb/learn/modules/principles-cloud-computing/5-types-of-cloud-services
-Question #37 Topic 1
+Question #37 
 You have an on-premises network that contains several servers.
 You plan to migrate all the servers to Azure.
 You need to recommend a solution to ensure that some of the servers are available if a single Azure data center goes offline for an extended
@@ -507,7 +507,7 @@ References:
 https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability
 Community vote distribution
 A (100%)
-Question #38 Topic 1
+Question #38 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -524,7 +524,7 @@ This offers a simulation of a public cloud to your users, but you remain complet
 hardware and software services you provide.
 Reference:
 https://docs.microsoft.com/en-gb/learn/modules/principles-cloud-computing/4-cloud-deployment-models
-Question #39 Topic 1
+Question #39 
 What are two characteristics of the public cloud? Each correct answer presents a complete solution.
 NOTE: Each correct selection is worth one point.
 A. dedicated hardware
@@ -545,14 +545,14 @@ References:
 https://docs.microsoft.com/en-gb/learn/modules/principles-cloud-computing/4-cloud-deployment-models
 Community vote distribution
 DE (100%)
-Question #40 Topic 1
+Question #40 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
 Correct Answer:
 When planning to migrate a public website to Azure, you must plan to pay monthly usage costs. This is because Azure uses the pay-as-you-go
 model.
-Question #41 Topic 1
+Question #41 
 
 Your company plans to migrate all its data and resources to Azure.
 The company's migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure.
@@ -565,7 +565,7 @@ Correct Answer: A
 Azure App Service and Azure SQL databases are examples of Azure PaaS solutions. Therefore, this solution does meet the goal.
 Community vote distribution
 A (95%) 5%
-Question #42 Topic 1
+Question #42 
 
 Your company plans to migrate all its data and resources to Azure.
 The company's migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure.
@@ -585,7 +585,7 @@ Reference:
 https://azure.microsoft.com/en-us/overview/what-is-paas/
 Community vote distribution
 B (93%) 7%
-Question #43 Topic 1
+Question #43 
 
 Your company plans to migrate all its data and resources to Azure.
 The company's migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure.
@@ -597,7 +597,7 @@ B. No
 Correct Answer: B
 Community vote distribution
 B (58%) A (42%)
-Question #44 Topic 1
+Question #44 
 Your company hosts an accounting application named App1 that is used by all the customers of the company.
 App1 has low usage during the first three weeks of each month and very high usage during the last week of each month.
 Which benefit of Azure Cloud Services supports cost management for this type of usage pattern?
@@ -618,7 +618,7 @@ References:
 https://azure.microsoft.com/en-gb/overview/what-is-elastic-computing/
 Community vote distribution
 C (93%) 7%
-Question #45 Topic 1
+Question #45 
 You plan to migrate a web application to Azure. The web application is accessed by external users.
 You need to recommend a cloud deployment solution to minimize the amount of administrative effort used to manage the web application.
 What should you include in the recommendation?
@@ -635,7 +635,7 @@ References:
 https://docs.microsoft.com/en-us/azure/security/fundamentals/paas-applications-using-app-services
 Community vote distribution
 B (85%) A (15%)
-Question #46 Topic 1
+Question #46 
 HOTSPOT -
 Which cloud deployment solution is used for Azure virtual machines and Azure SQL databases? To answer, select the appropriate options in the
 answer area.
@@ -657,7 +657,7 @@ domain specific database administration and optimization activities that are cri
 Reference:
 https://docs.microsoft.com/en-gb/learn/modules/principles-cloud-computing/5-types-of-cloud-services https://docs.microsoft.com/enus/
 azure/sql-database/sql-database-paas-index
-Question #47 Topic 1
+Question #47 
 You have an on-premises network that contains 100 servers.
 You need to recommend a solution that provides additional resources to your users. The solution must minimize capital and operational
 expenditure costs.
@@ -681,7 +681,7 @@ Reference:
 https://docs.microsoft.com/en-gb/learn/modules/principles-cloud-computing/4-cloud-deployment-models
 Community vote distribution
 D (83%) A (17%)
-Question #48 Topic 1
+Question #48 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -701,7 +701,7 @@ There are many authentication scenarios but a common one is to replicate your on
 and provide access to the Azure Active Directory accounts. Another commonly used authentication method is 'Federation' where authentication
 for access to cloud resources is passed to another authentication provider such as an on-premises Active Directory.
 https://azure.microsoft.com/en-gb/overview/what-is-hybrid-cloud-computing/
-Question #49 Topic 1
+Question #49 
 You plan to migrate several servers from an on-premises network to Azure.
 What is an advantage of using a public cloud service for the servers over an on-premises network?
 A. The public cloud is owned by the public, NOT a private corporation
@@ -720,7 +720,7 @@ accounts for your users to access your cloud resources. No one can access your c
 the appropriate access permissions.
 Community vote distribution
 D (88%) 13%
-Question #50 Topic 1
+Question #50 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -729,7 +729,7 @@ Azure Site Recovery helps ensure business continuity by keeping business apps an
 workloads running on physical and virtual machines (VMs) from a primary site to a secondary location.
 Reference:
 https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-overview
-Question #51 Topic 1
+Question #51 
 In which type of cloud model are all the hardware resources owned by a third-party and shared between multiple tenants?
 A. private
 B. hybrid
@@ -739,14 +739,14 @@ Microsoft Azure, Amazon Web Services and Google Cloud are three examples of publ
 Microsoft, Amazon and Google own the hardware. The tenants are the customers who use the public cloud services.
 Community vote distribution
 C (95%) 5%
-Question #52 Topic 1
+Question #52 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
 Correct Answer:
 Reference:
 https://azure.microsoft.com/en-gb/overview/what-is-hybrid-cloud-computing/
-Question #53 Topic 1
+Question #53 
 You have 1,000 virtual machines hosted on the Hyper-V hosts in a data center.
 You plan to migrate all the virtual machines to an Azure pay-as-you-go subscription.
 You need to identify which expenditure model to use for the planned Azure solution.
@@ -764,7 +764,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/appendix/azure-scaffold
 Community vote distribution
 A (100%)
-Question #54 Topic 1
+Question #54 
 DRAG DROP -
 Match the Azure services benefits to the correct descriptions.
 Instructions: To answer, drag the appropriate benefit from the column on the left to its description on the right. Each benefit may be used once,
@@ -788,7 +788,7 @@ References:
 https://msdn.microsoft.com/en-us/magazine/mt422582.aspx
 https://searchdisasterrecovery.techtarget.com/definition/cloud-disaster-recovery-cloud-DR http://www.siasmsp.com/the-benefit-of-scalabilityin-
 cloud-computing-2/ https://azure.microsoft.com/en-in/overview/what-is-cloud-computing/
-Question #55 Topic 1
+Question #55 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -809,13 +809,13 @@ and provide access to the Azure Active Directory accounts. Another commonly used
 for access to cloud resources is passed to another authentication provider such as an on-premises Active Directory.
 Reference:
 https://azure.microsoft.com/en-gb/overview/what-is-hybrid-cloud-computing/
-Question #56 Topic 1
+Question #56 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
 Hot Area:
 Correct Answer:
-Question #57 Topic 1
+Question #57 
 Your company has an on-premises network that contains multiple servers.
 The company plans to reduce the following administrative responsibilities:
 ✑ Backing up application data
@@ -845,7 +845,7 @@ E: Microsoft have no control over the shared folders you host on the virtual mac
 permissions are configured appropriately.
 Community vote distribution
 AC (100%)
-Question #58 Topic 1
+Question #58 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -863,7 +863,7 @@ Deploying your own datacenter is an example of CapEx. This is because you need t
 it.
 Reference:
 https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/appendix/azure-scaffold
-Question #59 Topic 1
+Question #59 
 You plan to provision Infrastructure as a Service (IaaS) resources in Azure.
 Which resource is an example of IaaS?
 A. an Azure web app
@@ -878,7 +878,7 @@ https://azure.microsoft.com/en-gb/overview/what-is-iaas/
 https://azure.microsoft.com/en-gb/overview/what-is-paas/
 Community vote distribution
 B (100%)
-Question #60 Topic 1
+Question #60 
 To which cloud models can you deploy physical servers?
 A. private cloud and hybrid cloud only
 B. private cloud only
@@ -891,7 +891,7 @@ Reference:
 https://azure.microsoft.com/en-gb/overview/what-is-hybrid-cloud-computing/
 Community vote distribution
 A (100%)
-Question #61 Topic 1
+Question #61 
 DRAG DROP -
 Match the cloud model to the correct advantage.
 Instructions: To answer, drag the appropriate cloud model from the column on the left to its advantage on the right. Each cloud model may be
@@ -905,7 +905,7 @@ Box 2: Private Cloud -
 A private cloud exists on premises, so you have complete control over security.
 Box 3: Hybrid Cloud -
 A hybrid cloud is a mix of public cloud resources and on-premises resources. Therefore, you have a choice to use either.
-Question #62 Topic 1
+Question #62 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -922,7 +922,7 @@ It is not true that a private cloud must be disconnected from the Internet. Priv
 Internet. ג€Private cloud ג€ means that the physical servers are managed by you. It does not mean that it is disconnected from the Internet.
 Reference:
 https://azure.microsoft.com/en-gb/overview/what-are-private-public-hybrid-clouds/
-Question #63 Topic 1
+Question #63 
 You have 50 virtual machines hosted on-premises and 50 virtual machines hosted in Azure. The on-premises virtual machines and the Azure
 virtual machines connect to each other.
 Which type of cloud model is this?
@@ -934,7 +934,7 @@ References:
 https://azure.microsoft.com/en-gb/overview/what-is-hybrid-cloud-computing/
 Community vote distribution
 A (100%)
-Question #64 Topic 1
+Question #64 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -953,7 +953,7 @@ the scenes, the web apps are hosted on virtual machines running IIS. Autoscaling
 the web apps.
 References:
 https://azure.microsoft.com/en-gb/overview/what-is-paas/
-Question #65 Topic 1
+Question #65 
 
 Your company plans to migrate all its data and resources to Azure.
 The company's migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure.
@@ -973,7 +973,7 @@ https://azure.microsoft.com/en-us/overview/what-is-paas/
 https://azure.microsoft.com/en-us/overview/what-is-iaas/
 Community vote distribution
 B (62%) A (38%)
-Question #66 Topic 1
+Question #66 
 Your company plans to deploy several custom applications to Azure. The applications will provide invoicing services to the customers of the
 company. Each application will have several prerequisite applications and services installed.
 You need to recommend a cloud deployment solution for all the applications.
@@ -997,7 +997,7 @@ https://azure.microsoft.com/en-us/overview/what-is-saas/
 https://azure.microsoft.com/en-us/overview/what-is-paas/
 Community vote distribution
 C (79%) B (21%)
-Question #67 Topic 1
+Question #67 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1010,7 +1010,7 @@ OpEx is ongoing costs (costs of operations) such as staff salaries.
 Box 2: Yes -
 OpEx is ongoing costs (costs of operations) such as leasing software. If you purchased software as a one-off purchase, that would be CapEx,
 but leasing software is ongoing so it's OpEx.
-Question #68 Topic 1
+Question #68 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -1018,7 +1018,7 @@ Correct Answer:
 Azure Cosmos DB is an example of a platform as a service (PaaS) cloud database provider.
 Reference:
 https://docs.microsoft.com/en-us/azure/cosmos-db/database-security
-Question #69 Topic 1
+Question #69 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1028,7 +1028,7 @@ Reference:
 https://azure.microsoft.com/en-us/overview/what-is-saas/
 https://azure.microsoft.com/en-us/overview/what-is-iaas/
 https://azure.microsoft.com/en-us/overview/what-is-paas/
-Question #70 Topic 1
+Question #70 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1043,7 +1043,7 @@ contains.
 Reference:
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview https://www.codeisahighway.com/effective-waysto-
 delete-resources-in-a-resource-group-on-azure/
-Question #71 Topic 1
+Question #71 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1052,14 +1052,14 @@ Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview https://docs.microsoft.com/en-us/azure/cosmosdb/
 account-databases-containers-items https://www.red-gate.com/simple-talk/cloud/azure/overview-of-azure-cosmos-db
-Question #72 Topic 1
+Question #72 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
 Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview
-Question #73 Topic 1
+Question #73 
 Your company plans to migrate all its data and resources to Azure.
 The company's migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure.
 You need to deploy an Azure environment that meets the company's migration plan.
@@ -1072,7 +1072,7 @@ Correct Answer: C
 Azure App Service and Azure SQL databases are examples of Azure PaaS solutions. Therefore, this solution does meet the goal.
 Community vote distribution
 C (100%)
-Question #74 Topic 1
+Question #74 
 What does a customer provide in a software as a service (SaaS) model?
 A. application data
 B. data storage
@@ -1087,7 +1087,7 @@ Reference:
 https://azure.microsoft.com/en-in/overview/what-is-saas/
 Community vote distribution
 A (100%)
-Question #75 Topic 1
+Question #75 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1097,13 +1097,13 @@ Reference:
 https://azure.microsoft.com/en-gb/overview/what-is-iaas/
 https://azure.microsoft.com/en-gb/overview/what-is-paas/
 https://azure.microsoft.com/en-gb/overview/what-is-saas/
-Question #76 Topic 1
+Question #76 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
 Hot Area:
 Correct Answer:
-Question #77 Topic 1
+Question #77 
 What is the first stage in the Microsoft Cloud Adoption Framework for Azure?
 A. Adopt the cloud.
 B. Make a plan.
@@ -1114,7 +1114,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/overview
 Community vote distribution
 D (100%)
-Question #78 Topic 1
+Question #78 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1128,7 +1128,7 @@ A private cloud exists in cyberspace and is accessed via the internet.
 Box 3: Yes.
 Reference:
 https://azure.microsoft.com/en-gb/overview/what-are-private-public-hybrid-clouds/
-Question #79 Topic 1
+Question #79 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1142,7 +1142,7 @@ intelligence ג€"over the Internet ( ג€the cloud ג€) to offer faster inn
 Box 3: Yes -
 Reference:
 https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/
-Question #80 Topic 1
+Question #80 
 DRAG DROP -
 Match the cloud computing benefits to the correct descriptions.
 To answer, drag the appropriate benefit from the column on the left to its description on the right. Each benefit may be used once, more than once,
@@ -1150,7 +1150,7 @@ or not at all.
 NOTE: Each correct match is worth one point.
 Select and Place:
 Correct Answer:
-Question #81 Topic 1
+Question #81 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -1158,7 +1158,7 @@ Correct Answer:
 You set up disaster recovery for Azure VMs using Azure Site Recovery.
 Reference:
 https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-enable-replication
-Question #82 Topic 1
+Question #82 
 HOTSPOT -
 You plan to use Azure to host two apps named App1 and App2. The apps must meet the following requirements:
 ✑ You must be able to modify the code of App1.
@@ -1184,7 +1184,7 @@ software, and with the appropriate service agreement, will ensure the availabili
 your organization to get quickly up and running with an app at minimal upfront cost.
 Reference:
 https://azure.microsoft.com/en-us/overview/what-is-paas/
-Question #83 Topic 1
+Question #83 
 You have an accounting application named App1 that uses a legacy database.
 You plan to move App1 to the cloud.
 Which service model should you use?
@@ -1199,7 +1199,7 @@ Reference:
 https://techtaalk.com/microsoft-azure-for-legacy-application-modernization/
 Community vote distribution
 B (94%) 6%
-Question #84 Topic 1
+Question #84 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -1211,7 +1211,7 @@ SaaS applications are sometimes called Web-based software, on-demand software, o
 run on a SaaS provider's servers. The provider manages access to the application, including security, availability, and performance.
 Reference:
 https://www.salesforce.com/in/saas/
-Question #85 Topic 1
+Question #85 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -1220,7 +1220,7 @@ Box: hybrid -
 You can deploy hybrid app with on-premises data that scales cross-cloud.
 Reference:
 https://docs.microsoft.com/en-us/azure/architecture/hybrid/deployments/solution-deployment-guide-cross-cloud-scaling-onprem-data
-Question #86 Topic 1
+Question #86 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -1233,7 +1233,7 @@ Like IaaS, PaaS includes infrastructure ג€"servers, storage, and networking �
 services, database management systems, and more.
 Reference:
 https://azure.microsoft.com/en-us/overview/what-is-paas/
-Question #87 Topic 1
+Question #87 
 Which cloud computing model includes on-premises and cloud-based resources?
 A. hybrid
 B. public
@@ -1246,7 +1246,7 @@ Reference:
 https://azure.microsoft.com/en-us/overview/what-is-hybrid-cloud-computing/
 Community vote distribution
 A (100%)
-Question #88 Topic 1
+Question #88 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -1259,7 +1259,7 @@ when needed.
 Reference:
 https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-autoscale-overview
 https://www.netreo.com/cloud-automation/what-is-azure-elasticity-as-a-service/
-Question #89 Topic 1
+Question #89 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1282,7 +1282,7 @@ network ranges.
 Reference:
 https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks-portal https://docs.microsoft.com/enus/
 azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming
-Question #90 Topic 1
+Question #90 
 Which term represents the ability to increase the computing capacity of a virtual machine by adding memory or CPUs?
 A. agility
 B. vertical scaling
@@ -1296,7 +1296,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-vertical-scale-reprovision
 Community vote distribution
 B (100%)
-Question #91 Topic 1
+Question #91 
 What are two benefits of cloud computing? Each correct answer presents a complete solution.
 NOTE: Each correct selection is worth one point.
 A. enables the rapid provisioning of resources
@@ -1317,7 +1317,7 @@ Reference:
 https://www.protechtraining.com/blog/post/top-5-benefits-of-microsoft-azure-for-business-934 https://www.azureguru.org/capex-vs-opex/#
 Community vote distribution
 AD (100%)
-Question #92 Topic 1
+Question #92 
 What is a feature of an Azure virtual network?
 A. resource cost analysis
 B. packet inspection
@@ -1335,7 +1335,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/architecture/framework/security/design-network-segmentation
 Community vote distribution
 D (100%)
-Question #93 Topic 1
+Question #93 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -1344,7 +1344,7 @@ Because of geo-distribution you can deploy apps and data to regional datacenters
 always have the best performance in their region.
 Reference:
 https://docs.microsoft.com/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing
-Question #94 Topic 1
+Question #94 
 DRAG DROP -
 Match the cloud computing benefits to the appropriate descriptions.
 To answer, drag the appropriate benefit from the column on the left to its description on the right. Each benefit may be used once, more than once,
@@ -1354,7 +1354,7 @@ Select and Place:
 Correct Answer:
 Reference:
 https://docs.microsoft.com/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing
-Question #95 Topic 1
+Question #95 
 Which cloud computing benefit provides continuous user access to a cloud-based application with minimal downtime?
 A. agility
 B. scalability
@@ -1363,7 +1363,7 @@ D. high availability
 Correct Answer: D
 Community vote distribution
 D (100%)
-Question #96 Topic 1
+Question #96 
 You need to identify the type of failure for which an Azure Availability Zone can be used to protect access to Azure services.
 What should you identify?
 A. a physical server failure
@@ -1380,7 +1380,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/virtual-machines/availability
 Community vote distribution
 D (100%)
-Question #97 Topic 1
+Question #97 
 HOTSPOT -
 You plan to extend your company's network to Azure.
 The network contains a VPN appliance that uses an IP address of 131.107.200.1.
@@ -1397,7 +1397,7 @@ through the VPN gateway to the VPN device. The address prefixes you specify are 
 network changes or you need to change the public IP address for the VPN device, you can easily update the values later.
 Reference:
 https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal
-Question #98 Topic 1
+Question #98 
 
 You plan to deploy several Azure virtual machines.
 You need to ensure that the services running on the virtual machines are available if a single data center fails.
@@ -1416,7 +1416,7 @@ References:
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview#resource-groups
 Community vote distribution
 B (100%)
-Question #99 Topic 1
+Question #99 
 
 You plan to deploy several Azure virtual machines.
 You need to ensure that the services running on the virtual machines are available if a single data center fails.
@@ -1435,7 +1435,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/availability
 Community vote distribution
 B (100%)
-Question #100 Topic 1
+Question #100 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1449,7 +1449,7 @@ If your subscription expires, you lose access to all the other resources associa
 remains in Azure. You can associate and manage the directory using a different Azure subscription.
 References:
 https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory
-Question #101 Topic 1
+Question #101 
 This question requires that you evaluate the underlined text to determine if it is correct.
 Resource groups provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions.
 Instructions: Review the underlined text. If it makes the statement correct, select `No change is needed`. If the statement is incorrect, select the
@@ -1470,7 +1470,7 @@ References:
 https://docs.microsoft.com/en-us/azure/governance/policy/overview
 Community vote distribution
 B (61%) C (38%)
-Question #102 Topic 1
+Question #102 
 Your company plans to migrate to Azure.
 The company has several departments. All the Azure resources used by each department will be managed by a department administrator.
 What are two possible techniques to segment Azure for the departments? Each correct answer presents a complete solution.
@@ -1492,7 +1492,7 @@ https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/create-sub
 billing/manage/add-change-subscription-administrator
 Community vote distribution
 AD (88%) 13%
-Question #103 Topic 1
+Question #103 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1510,7 +1510,7 @@ A company can have multiple subscriptions and store resources in the different s
 one subscription.
 Reference:
 https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/create-subscription
-Question #104 Topic 1
+Question #104 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -1521,7 +1521,7 @@ company's subscription to continue your work. You do not need to start the VM in
 move.
 Reference:
 https://docs.microsoft.com/en-us/azure/virtual-machines/windows/move-vm
-Question #105 Topic 1
+Question #105 
 You have an Azure environment that contains multiple Azure virtual machines.
 You plan to implement a solution that enables the client computers on your on-premises network to communicate to the Azure virtual machines.
 You need to recommend which Azure resources must be created for the planned solution.
@@ -1544,7 +1544,7 @@ References:
 https://docs.microsoft.com/en-us/office365/enterprise/connect-an-on-premises-network-to-a-microsoft-azure-virtual-network
 Community vote distribution
 AE (80%) AD (20%)
-Question #106 Topic 1
+Question #106 
 You attempt to create several managed Microsoft SQL Server instances in an Azure environment and receive a message that you must increase
 your Azure subscription limits.
 What should you do to increase the limits?
@@ -1563,7 +1563,7 @@ https://docs.microsoft.com/en-us/azure/sql-database/sql-database-managed-instanc
 instance
 Community vote distribution
 D (83%) C (17%)
-Question #107 Topic 1
+Question #107 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1580,7 +1580,7 @@ Resource groups are logical containers for Azure resources. However, resource gr
 resource groups.
 Reference:
 https://docs.microsoft.com/en-us/office365/enterprise/subscriptions-licenses-accounts-and-tenants-for-microsoft-cloud-offerings
-Question #108 Topic 1
+Question #108 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1594,7 +1594,7 @@ Box 3: No -
 Availability Zones are unique physical locations within a single Azure region.
 Reference:
 https://docs.microsoft.com/en-us/azure/availability-zones/az-region#azure-regions-with-availability-zones
-Question #109 Topic 1
+Question #109 
 HOTSPOT -
 You plan to create an Azure virtual machine.
 You need to identify which storage service must be used to store the unmanaged data disks of the virtual machine.
@@ -1606,7 +1606,7 @@ where data is durably persisted in the Azure Storage platform and then delivered
 Disks are persisted in Hyper-V VHD format and stored as a page blob in Azure Storage.
 Reference:
 https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-pageblob-overview
-Question #110 Topic 1
+Question #110 
 Your company plans to move several servers to Azure.
 The company's compliance policy states that a server named FinServer must be on a separate network segment.
 You are evaluating which Azure services can be used to meet the compliance policy requirements.
@@ -1624,7 +1624,7 @@ References:
 https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm
 Community vote distribution
 B (100%)
-Question #111 Topic 1
+Question #111 
 You plan to map a network drive from several computers that run Windows 10 to Azure Storage.
 You need to create a storage solution in Azure for the planned mapped drive.
 What should you create?
@@ -1646,7 +1646,7 @@ References:
 https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-use-files-windows
 Community vote distribution
 C (91%) 9%
-Question #112 Topic 1
+Question #112 
 HOTSPOT -
 You plan to implement an Azure database solution.
 You need to implement a database solution that meets the following requirements:
@@ -1662,7 +1662,7 @@ and easy with much less code than required for storing data in a relational data
 References:
 https://docs.microsoft.com/en-us/azure/cosmos-db/introduction https://docs.microsoft.com/en-us/azure/azure-functions/functions-integratestore-
 unstructured-data-cosmosdb?tabs=csharp
-Question #113 Topic 1
+Question #113 
 Your company plans to start using Azure and will migrate all its network resources to Azure.
 You need to start the planning process by exploring Azure.
 What should you create first?
@@ -1685,7 +1685,7 @@ References:
 https://docs.microsoft.com/en-us/office365/enterprise/subscriptions-licenses-accounts-and-tenants-for-microsoft-cloud-offerings
 Community vote distribution
 A (100%)
-Question #114 Topic 1
+Question #114 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1706,7 +1706,7 @@ A resource group can be used to scope access control for administrative actions.
 by the resources in the resource group.
 Reference:
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview
-Question #115 Topic 1
+Question #115 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -1722,7 +1722,7 @@ Example usage scenarios for the archive access tier include:
 ✑ Compliance and archival data that needs to be stored for a long time and is hardly ever accessed.
 Reference:
 https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-storage-tiers?tabs=azure-portal#archive-access-tier
-Question #116 Topic 1
+Question #116 
 HOTSPOT -
 You plan to deploy a critical line-of-business application to Azure.
 The application will run on an Azure virtual machine.
@@ -1741,7 +1741,7 @@ Availability Zones to protect from single-points-of-failure. With Availability
 Zones, Azure offers industry best 99.99% VM uptime SLA.
 References:
 https://docs.microsoft.com/en-us/azure/availability-zones/az-overview
-Question #117 Topic 1
+Question #117 
 Which Azure service should you use to collect events from multiple resources into a centralized repository?
 A. Azure Event Hubs
 B. Azure Analysis Services
@@ -1758,7 +1758,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about
 Community vote distribution
 A (60%) C (40%)
-Question #118 Topic 1
+Question #118 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -1767,7 +1767,7 @@ Availability Zones is a high-availability offering that protects your applicatio
 physical locations within an Azure region.
 Reference:
 https://docs.microsoft.com/en-us/azure/availability-zones/az-overview
-Question #119 Topic 1
+Question #119 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1787,7 +1787,7 @@ The limits are much higher than that. The current storage limit is 2 PB for US a
 with no limit on the number of files.
 Reference:
 https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview
-Question #120 Topic 1
+Question #120 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1806,7 +1806,7 @@ Availability Zones to protect from single-points-of-failure. With Availability
 Zones, Azure offers industry best 99.99% VM uptime SLA.
 References:
 https://docs.microsoft.com/en-gb/azure/availability-zones/az-overview
-Question #121 Topic 1
+Question #121 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1820,7 +1820,7 @@ Box 3: No -
 Outbound data transfer is charged at the normal rate and inbound data transfer is free.
 References:
 https://azure.microsoft.com/en-us/global-infrastructure/regions/ https://azure.microsoft.com/en-us/pricing/details/bandwidth/
-Question #122 Topic 1
+Question #122 
 
 You plan to deploy several Azure virtual machines.
 You need to ensure that the services running on the virtual machines are available if a single data center fails.
@@ -1839,7 +1839,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/availability
 Community vote distribution
 B (100%)
-Question #123 Topic 1
+Question #123 
 You need to be notified when Microsoft plans to perform maintenance that can affect the resources deployed to an Azure subscription.
 What should you use?
 A. Azure Monitor
@@ -1854,7 +1854,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/service-health/overview
 Community vote distribution
 B (100%)
-Question #124 Topic 1
+Question #124 
 DRAG DROP -
 Match the Azure Services service to the correct description.
 Instructions: To answer, drag the appropriate service from the column on the left to its description on the right. Each service may be used once,
@@ -1865,7 +1865,7 @@ Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/azure-sphere/product-overview/what-is-azure-sphere https://docs.microsoft.com/en-us/azure/iotcentral/
 core/overview-iot-central https://docs.microsoft.com/en-us/azure/iot-hub/about-iot-hub
-Question #125 Topic 1
+Question #125 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1873,14 +1873,14 @@ Hot Area:
 Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/azure/virtual-desktop/overview
-Question #126 Topic 1
+Question #126 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
 Correct Answer:
 Reference:
 https://blog.abouttmc.com/azure-cloud-total-cost-of-ownership
-Question #127 Topic 1
+Question #127 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1895,7 +1895,7 @@ can protect your applications and data from the loss of a datacenter. If one zon
 available in another zone.
 References:
 https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability
-Question #128 Topic 1
+Question #128 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1909,7 +1909,7 @@ multiple resources.
 Reference:
 https://k21academy.com/microsoft-azure/az-900/az-900-azure-subscriptions/ https://azure.microsoft.com/en-us/blog/organizingsubscriptions-
 and-resource-groups-within-the-enterprise/
-Question #129 Topic 1
+Question #129 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -1920,7 +1920,7 @@ Regions are divided into Availability Zones. Availability Zones are physically s
 made up of one or more datacenters equipped with independent power, cooling, and networking.
 Reference:
 https://azure.microsoft.com/en-gb/global-infrastructure/regions/
-Question #130 Topic 1
+Question #130 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1929,7 +1929,7 @@ Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/groups-dynamic-membership https://petri.com/understandinghybrid-
 azure-active-directory-join
-Question #131 Topic 1
+Question #131 
 You plan to deploy several Azure virtual machines.
 You need to ensure that the services running on the virtual machines remain available if a single data center fails.
 What are two possible solutions? Each correct answer presents a complete solution.
@@ -1943,7 +1943,7 @@ https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview https
 windows/regions
 Community vote distribution
 AD (100%)
-Question #132 Topic 1
+Question #132 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -1955,7 +1955,7 @@ To ensure that a virtual machine cannot connect to the other virtual machines, t
 network.
 Reference:
 https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview
-Question #133 Topic 1
+Question #133 
 DRAG DROP -
 Match the Azure service to the appropriate description.
 To answer, drag the appropriate service from the column on the left to its description on the right. Each service may be used once, more than
@@ -1963,7 +1963,7 @@ once, or not at all.
 NOTE: Each correct match is worth one point.
 Select and Place:
 Correct Answer:
-Question #134 Topic 1
+Question #134 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -1980,7 +1980,7 @@ Usage scenarios for the cool access tier include:
 Large data sets that need to be stored cost effectively, while more data is being gathered for future processing
 Reference:
 https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-storage-tiers
-Question #135 Topic 1
+Question #135 
 What is the most severe failure from which an Azure Availability Zone can be used to protect access to Azure service?
 A. a physical server failure
 B. an Azure region failure
@@ -1996,7 +1996,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/virtual-machines/availability
 Community vote distribution
 D (100%)
-Question #136 Topic 1
+Question #136 
 You need to purchase a third-party virtual security appliance that you will deploy to an Azure subscription.
 What should you use?
 A. Azure subscriptions
@@ -2008,7 +2008,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/ea-azure-marketplace
 Community vote distribution
 C (100%)
-Question #137 Topic 1
+Question #137 
 DRAG DROP -
 Match the serverless solution to the correct characteristic.
 To answer, drag the appropriate serverless solution from the column on the left to its characteristic on the right. Each serverless solution may be
@@ -2026,7 +2026,7 @@ Azure Logic Apps is a cloud-based platform for creating and running automated wo
 systems.
 Reference:
 https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview https://docs.microsoft.com/en-us/azure/azure-functions/functionsoverview
-Question #138 Topic 1
+Question #138 
 DRAG DROP -
 Match the Azure governance feature to the correct description.
 Instructions: To answer, drag the appropriate feature from the column on the left to its description on the right. Each feature may be used once,
@@ -2038,7 +2038,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/governance/blueprints/overview https://docs.microsoft.com/enus/
 azure/governance/policy/overview https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources?
 tabs=json https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources?tabs=json
-Question #139 Topic 1
+Question #139 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -2047,7 +2047,7 @@ Box: within a single Azure region
 Azure availability zones are physically separate locations within each Azure region that are tolerant to local failures.
 Reference:
 https://docs.microsoft.com/en-us/azure/availability-zones/az-overview
-Question #140 Topic 1
+Question #140 
 DRAG DROP -
 Match the Azure services to the correct descriptions.
 Instructions: To answer, drag the appropriate Azure service from the column on the left to its description on the right. Each service may be used
@@ -2071,7 +2071,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/container-instances
 https://azure.microsoft.com/en-us/services/app-service/
 https://revdebug.com/blog/what-are-azure-functions
-Question #141 Topic 1
+Question #141 
 HOTSPOT -
 To answer, select the appropriate option in the answer area.
 Hot Area:
@@ -2089,7 +2089,7 @@ Note: Repeat the process below for each Resource Group containing the VMs.
 after it is moved, and then select OK.
 Reference:
 https://docs.microsoft.com/en-us/azure/virtual-machines/windows/move-vm
-Question #142 Topic 1
+Question #142 
 You need to purchase a third-party virtual security appliance that you will deploy to an Azure subscription.
 What should you use?
 A. Azure subscriptions
@@ -2105,7 +2105,7 @@ https://docs.microsoft.com/en-us/azure/security/fundamentals/network-overview ht
 manage/ea-azure-marketplace
 Community vote distribution
 C (100%)
-Question #143 Topic 1
+Question #143 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -2116,7 +2116,7 @@ Azure Sphere consists of Microsoft-certified microcontrollers ג€" single-chip
 Sphere Linux-based OS and the Azure Sphere cloud security service.
 Reference:
 https://www.zdnet.com/article/microsofts-azure-sphere-its-linux-based-microcontroller-plus-cloud-service-hits-general-availability/
-Question #144 Topic 1
+Question #144 
 You plan to deploy a service to Azure virtual machines.
 You need to ensure that the service will be available if a datacenter fails.
 What should you use as part of the virtual machine deployment?
@@ -2131,7 +2131,7 @@ logical isolation of Azure services. To ensure resiliency, a minimum of three se
 regions.
 Reference:
 https://docs.microsoft.com/en-us/azure/availability-zones/az-overview
-Question #145 Topic 1
+Question #145 
 Your company has an Azure subscription that contains resources in several regions.
 You need to ensure that administrators can only create resources in those regions.
 What should you use?
@@ -2142,7 +2142,7 @@ D. a reservation
 Correct Answer: B
 Community vote distribution
 B (100%)
-Question #146 Topic 1
+Question #146 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -2152,7 +2152,7 @@ Each Azure region features datacenters deployed within a latency-defined perimet
 network. This design ensures that Azure services within any region offer the best possible performance and security.
 Reference:
 https://docs.microsoft.com/en-us/azure/availability-zones/az-overview
-Question #147 Topic 1
+Question #147 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -2160,7 +2160,7 @@ Correct Answer:
 The Azure File Sync agent enables data on a Windows Server to be synchronized with an Azure File share.
 Reference:
 https://www.microsoft.com/en-us/download/details.aspx?id=57159
-Question #148 Topic 1
+Question #148 
 What is the function of a Site-to-Site VPN?
 A. provides a secure connection between a computer on a public network and the corporate network
 B. provides a dedicated private connection to Azure that does NOT travel over the internet
@@ -2174,7 +2174,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-classic-portal
 Community vote distribution
 C (100%)
-Question #149 Topic 1
+Question #149 
 DRAG DROP -
 Match the cloud service models to the appropriate offerings.
 To answer, drag the appropriate model from the column on the left to its offering on the right. Each model may be used once, more than once, or
@@ -2195,7 +2195,7 @@ Reference:
 https://azure.microsoft.com/en-us/overview/what-is-paas/
 https://azure.microsoft.com/en-us/blog/infrastructure-as-a-service-series-virtual-machines-and-windows/ https://pipol.com/what-is-microsoftdynamics-
 365
-Question #150 Topic 1
+Question #150 
 DRAG DROP -
 Match the cloud service models to the appropriate solutions.
 To answer, drag the appropriate cloud service model from the column on the left to its solution on the right Each cloud service model may be used
@@ -2217,7 +2217,7 @@ everything from simple cloud-based apps to sophisticated, cloud-enabled enterpri
 Reference:
 https://azure.microsoft.com/en-us/overview/what-is-iaas
 https://azure.microsoft.com/en-us/overview/what-is-paas/
-Question #151 Topic 1
+Question #151 
 You need to manage containers.
 Which two services can you use? Each correct answer presents a complete solution.
 NOTE: Each correct selection is worth one point.
@@ -2240,7 +2240,7 @@ https://docs.microsoft.com/en-us/azure/container-instances/
 https://cloudacademy.com/blog/azure-kubernetes-service-aks-what-is-it-and-why-do-we-use-it
 Community vote distribution
 DE (100%)
-Question #152 Topic 1
+Question #152 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -2251,7 +2251,7 @@ The permissions you apply to the resource group apply to all resources contained
 Reference:
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview#resource-groups https://docs.microsoft.com/enus/
 azure/role-based-access-control/overview
-Question #153 Topic 1
+Question #153 
 
 You plan to deploy several Azure virtual machines.
 You need to ensure that the services running on the virtual machines are available if a single data center fails.
@@ -2269,7 +2269,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/availability
 Community vote distribution
 A (100%)
-Question #154 Topic 1
+Question #154 
 This question requires that you evaluate the underlined text to determine if it is correct.
 One of the benefits of Azure SQL Data Warehouse is that high availability is built into the platform.
 Instructions: Review the underlined text. If it makes the statement correct, select `No change is needed`. If the statement is incorrect, select the
@@ -2287,7 +2287,7 @@ References:
 https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-overview-faq
 Community vote distribution
 A (100%)
-Question #155 Topic 1
+Question #155 
 
 You plan to deploy several Azure virtual machines.
 You need to ensure that the services running on the virtual machines are available if a single data center fails.
@@ -2307,7 +2307,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/virtual-machines/windows/regions
 Community vote distribution
 A (70%) B (30%)
-Question #156 Topic 1
+Question #156 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -2326,7 +2326,7 @@ Azure Virtual machines. Deploy and manage VMs inside an Azure virtual network.
 Azure Container Apps. Deploy and manage VMs inside an Azure virtual network.
 Reference:
 https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree
-Question #157 Topic 1
+Question #157 
 At which OSI layer does ExpressRoute operate?
 A. Layer 2
 B. Layer 3
@@ -2341,7 +2341,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/expressroute
 Community vote distribution
 B (97%)
-Question #158 Topic 1
+Question #158 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -2350,7 +2350,7 @@ Application Insights is a feature of Azure Monitor that provides extensible appl
 web apps.
 Reference:
 https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
-Question #159 Topic 1
+Question #159 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -2370,7 +2370,7 @@ contains.
 References:
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview https://www.codeisahighway.com/effective-waysto-
 delete-resources-in-a-resource-group-on-azure/
-Question #160 Topic 1
+Question #160 
 You plan to store 20 TB of data in Azure. The data will be accessed infrequently and visualized by using Microsoft Power BI.
 You need to recommend a storage solution for the data.
 Which two solutions should you recommend? Each correct answer presents a complete solution.
@@ -2391,7 +2391,7 @@ https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-power-bi 
 https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-power-bi
 Community vote distribution
 AC (100%)
-Question #161 Topic 1
+Question #161 
 HOTSPOT -
 You have an Azure environment that contains 10 web apps. To which URL should you connect to manage all the Azure resources? To answer,
 select the appropriate options in the answer area.
@@ -2403,18 +2403,18 @@ web apps, databases, virtual machines, virtual networks, storage and Visual Stud
 The URL of the Azure portal is https://portal.azure.com.
 References:
 https://azure.microsoft.com/en-gb/features/azure-portal/
-Question #162 Topic 1
+Question #162 
 DRAG DROP -
 Arrange the storage account redundancy options from the least redundant to the most redundant. To answer, move all options from the list of
 options to the answer area and arrange them in the correct order.
 Select and Place:
 Correct Answer:
-Question #163 Topic 1
+Question #163 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
 Correct Answer:
-Question #164 Topic 1
+Question #164 
 
 An Azure administrator plans to run a PowerShell script that creates Azure resources.
 You need to recommend which computer configuration to use to run the script.
@@ -2431,7 +2431,7 @@ https://docs.microsoft.com/en-us/powershell/scripting/components/ise/how-to-writ
 view=powershell-6
 Community vote distribution
 B (100%)
-Question #165 Topic 1
+Question #165 
 
 An Azure administrator plans to run a PowerShell script that creates Azure resources.
 You need to recommend which computer configuration to use to run the script.
@@ -2449,7 +2449,7 @@ References:
 https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart-powershell
 Community vote distribution
 A (100%)
-Question #166 Topic 1
+Question #166 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -2472,7 +2472,7 @@ affecting the virtual machine.
 Azure resource health provides information about the health of your individual cloud resources such as a specific virtual machine instance.
 References:
 https://docs.microsoft.com/en-us/azure/service-health/overview
-Question #167 Topic 1
+Question #167 
 
 An Azure administrator plans to run a PowerShell script that creates Azure resources.
 You need to recommend which computer configuration to use to run the script.
@@ -2490,7 +2490,7 @@ https://docs.microsoft.com/en-us/powershell/scripting/components/ise/how-to-writ
 view=powershell-6
 Community vote distribution
 B (52%) A (48%)
-Question #168 Topic 1
+Question #168 
 HOTSPOT -
 You need to view a list of planned maintenance events that can affect the availability of an Azure subscription.
 Which blade should you use from the Azure portal? To answer, select the appropriate blade in the answer area.
@@ -2500,7 +2500,7 @@ On the Help and Support blade, there is a Service Health option. If you click Se
 contains the Planned
 Maintenance link which opens a blade where you can view a list of planned maintenance events that can affect the availability of an Azure
 subscription.
-Question #169 Topic 1
+Question #169 
 DRAG DROP -
 Match the Azure service to the correct definition.
 Instructions: To answer, drag the appropriate Azure service from the column on the left to its description on the right. Each service may be used
@@ -2530,7 +2530,7 @@ References:
 https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview https://azure.microsoft.com/en-gb/overview/what-isdevops/
 https://docs.microsoft.com/en-us/azure/advisor/advisor-overview https://docs.microsoft.com/en-us/azure/cognitiveservices/
 welcome
-Question #170 Topic 1
+Question #170 
 DRAG DROP -
 Match the Azure service to the correct description.
 Instructions: To answer, drag the appropriate Azure service from the column on the left to its description on the right. Each service may be used
@@ -2565,7 +2565,7 @@ https://azure.microsoft.com/en-us/services/sql-database/
 https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-overview-what-is https://docs.microsoft.com/bs-latnba/
 azure/hdinsight/hadoop/apache-hadoop-introduction https://www.blue-granite.com/blog/is-azure-sql-data-warehouse-a-good-fit-updated
 https://azure.microsoft.com/en-gb/services/data-lake-analytics/
-Question #171 Topic 1
+Question #171 
 HOTSPOT -
 You need to identify which blades in the Azure portal must be used to perform the following tasks:
 ✑ View security recommendations.
@@ -2596,7 +2596,7 @@ creates recommendations. The recommendations guide you through the process of co
 References:
 https://docs.microsoft.com/en-us/azure/azure-monitor/overview https://docs.microsoft.com/en-us/azure/marketplace/marketplace-faqpublisher-
 guide https://docs.microsoft.com/en-us/azure/advisor/advisor-security-recommendations
-Question #172 Topic 1
+Question #172 
 
 You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system.
 Solution: You use Bash in Azure Cloud Shell.
@@ -2611,7 +2611,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart https://docs.microsoft.com/en-us/azure/cloud-shell/overview
 Community vote distribution
 A (75%) R (25%)
-Question #173 Topic 1
+Question #173 
 You have an on-premises application that sends email notifications automatically based on a rule.
 You plan to migrate the application to Azure.
 You need to recommend a serverless computing solution for the application.
@@ -2634,7 +2634,7 @@ References:
 https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview
 Community vote distribution
 C (100%)
-Question #174 Topic 1
+Question #174 
 You plan to deploy a website to Azure. The website will be accessed by users worldwide and will host large video files.
 You need to recommend which Azure feature must be used to provide the best video playback experience.
 What should you recommend?
@@ -2659,7 +2659,7 @@ References:
 https://docs.microsoft.com/en-us/azure/cdn/cdn-overview
 Community vote distribution
 C (100%)
-Question #175 Topic 1
+Question #175 
 Your company plans to deploy several million sensors that will upload data to Azure.
 You need to identify which Azure resources must be created to support the planned solution.
 Which two Azure resources should you identify? Each correct answer presents part of the solution.
@@ -2683,7 +2683,7 @@ https://docs.microsoft.com/en-us/azure/iot-hub/about-iot-hub
 https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-messages-d2c
 Community vote distribution
 AD (100%)
-Question #176 Topic 1
+Question #176 
 You have an Azure web app.
 You need to manage the settings of the web app from an iPhone.
 What are two Azure management tools that you can use? Each correct answer presents a complete solution.
@@ -2706,7 +2706,7 @@ References:
 http://www.deployazure.com/management/managing-azure-from-ipad/
 Community vote distribution
 BC (100%)
-Question #177 Topic 1
+Question #177 
 Your company plans to deploy an Artificial Intelligence (AI) solution in Azure.
 What should the company use to build, test, and deploy predictive analytics solutions?
 A. Azure Logic Apps
@@ -2719,7 +2719,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/machine-learning/concept-designer
 Community vote distribution
 C (100%)
-Question #178 Topic 1
+Question #178 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -2739,7 +2739,7 @@ There is no requirement to implement the security recommendations provided by Az
 References:
 https://azure.microsoft.com/en-gb/blog/advisor-backup-recommendations/ https://docs.microsoft.com/en-us/azure/advisor/advisor-overview
 https://microsoft.github.io/AzureTipsAndTricks/blog/tip173.html
-Question #179 Topic 1
+Question #179 
 What can you use to automatically send an alert if an administrator stops an Azure virtual machine?
 A. Azure Advisor
 B. Azure Service Health
@@ -2750,7 +2750,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/azure-monitor/insights/vminsights-alerts
 Community vote distribution
 C (92%) 8%
-Question #180 Topic 1
+Question #180 
 DRAG DROP -
 Match the Azure services to the correct descriptions.
 Instructions: To answer, drag the appropriate Azure service from the column on the left to its description on the right. Each service may be used
@@ -2783,7 +2783,7 @@ millions of IoT devices and a cloud- hosted solution backend. You can connect vi
 Reference:
 https://azure.microsoft.com/en-gb/services/synapse-analytics/ https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-isazure-
 ml https://docs.microsoft.com/en-us/azure/iot-hub/about-iot-hub https://docs.microsoft.com/en-us/azure/azure-functions/functionsoverview
-Question #181 Topic 1
+Question #181 
 You have an Azure environment.
 You need to create a new Azure virtual machine from a tablet that runs the Android operating system.
 What are three possible solutions? Each correct answer presents a complete solution.
@@ -2801,7 +2801,7 @@ The Azure portal offers three ways to create a VM:
 ✑ Using the Azure Cloud Shell using PowerShell.
 Community vote distribution
 ABE (100%)
-Question #182 Topic 1
+Question #182 
 A team of developers at your company plans to deploy, and then remove, 50 virtual machines each week. All the virtual machines are configured
 by using Azure
 Resource Manager templates.
@@ -2819,7 +2819,7 @@ By using DevTest Labs, you can test the latest versions of your applications by 
 ✑ Scale up your load testing by provisioning multiple test agents and create pre-provisioned environments for training and demos.
 Reference:
 https://docs.microsoft.com/en-us/azure/lab-services/devtest-lab-overview
-Question #183 Topic 1
+Question #183 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -2839,7 +2839,7 @@ Azure Advisor does not provide recommendations on how to configure network setti
 References:
 https://docs.microsoft.com/en-us/azure/advisor/advisor-security-recommendations https://docs.microsoft.com/en-us/azure/advisor/advisorcost-
 recommendations
-Question #184 Topic 1
+Question #184 
 
 You have an Azure subscription named Subscription1. You sign in to the Azure portal and create a resource group named RG1.
 From Azure documentation, you have the following command that creates a virtual machine named VM1. az vm create --resource-group RG1 --
@@ -2860,7 +2860,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli
 Community vote distribution
 B (50%) A (50%)
-Question #185 Topic 1
+Question #185 
 
 You have an Azure subscription named Subscription1. You sign in to the Azure portal and create a resource group named RG1.
 From Azure documentation, you have the following command that creates a virtual machine named VM1. az vm create --resource-group RG1 --
@@ -2877,7 +2877,7 @@ Reference:
 https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?view=azure-cli-latest
 Community vote distribution
 A (81%) B (19%)
-Question #186 Topic 1
+Question #186 
 
 You have an Azure subscription named Subscription1. You sign in to the Azure portal and create a resource group named RG1.
 From Azure documentation, you have the following command that creates a virtual machine named VM1. az vm create --resource-group RG1 --
@@ -2894,7 +2894,7 @@ Reference:
 https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?view=azure-cli-latest
 Community vote distribution
 A (83%) B (17%)
-Question #187 Topic 1
+Question #187 
 HOTSPOT -
 Several support engineers plan to manage Azure by using the computers shown in the following table:
 You need to identify which Azure management tools can be used from each computer.
@@ -2908,12 +2908,12 @@ Windows, Linux and macOS using your tool of choice, either the Azure CLI or Azur
 The Azure portal runs in a web browser so can be used in either operating system.
 Reference:
 https://buildazure.com/2016/08/18/powershell-now-open-source-and-cross-platform-linux-macos-windows/
-Question #188 Topic 1
+Question #188 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
 Correct Answer:
-Question #189 Topic 1
+Question #189 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -2925,7 +2925,7 @@ Azure policies are used to define rules for what can be deployed and how it shou
 Azure policies do not provide the common platform for deploying objects to a cloud infrastructure.
 Reference:
 https://docs.microsoft.com/en-us/azure/governance/policy/overview
-Question #190 Topic 1
+Question #190 
 DRAG DROP -
 Match the Azure service to the correct description.
 Instructions: To answer, drag the appropriate Azure service from the column on the left to its description on the right. Each service may be used
@@ -2958,7 +2958,7 @@ References:
 https://docs.microsoft.com/en-us/azure/bot-service/bot-service-overview-introduction?view=azure-bot-service-4.0
 https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-ml https://docs.microsoft.com/en-us/azure/azurefunctions/
 https://docs.microsoft.com/en-us/azure/iot-hub/about-iot-hub
-Question #191 Topic 1
+Question #191 
 
 An Azure administrator plans to run a PowerShell script that creates Azure resources.
 You need to recommend which computer configuration to use to run the script.
@@ -2974,7 +2974,7 @@ https://docs.microsoft.com/en-us/powershell/scripting/components/ise/how-to-writ
 view=powershell-6
 Community vote distribution
 A (100%)
-Question #192 Topic 1
+Question #192 
 DRAG DROP -
 Match the Azure services to the correct description.
 Instructions: To answer, drag the appropriate Azure service from the column on the left to its description on the right. Each service may be used
@@ -3006,7 +3006,7 @@ References:
 https://docs.microsoft.com/en-us/azure/virtual-machines/windows/overview https://docs.microsoft.com/enus/
 azure/security/fundamentals/paas-applications-using-app-services https://docs.microsoft.com/en-us/azure/azure-functions/
 https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview
-Question #193 Topic 1
+Question #193 
 Which service provides serverless computing in Azure?
 A. Azure Virtual Machines
 B. Azure Functions
@@ -3020,7 +3020,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/azure-functions/
 Community vote distribution
 B (100%)
-Question #194 Topic 1
+Question #194 
 An Azure administrator plans to run a PowerShell script that creates Azure resources.
 You need to recommend which computer configuration to use to run the script.
 Which three computers can run the script? Each correct answer presents a complete solution.
@@ -3037,7 +3037,7 @@ https://docs.microsoft.com/en-us/powershell/scripting/components/ise/how-to-writ
 view=powershell-6 https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart-powershell
 Community vote distribution
 BCE (96%) 4%
-Question #195 Topic 1
+Question #195 
 
 You have an Azure subscription named Subscription1. You sign in to the Azure portal and create a resource group named RG1.
 From Azure documentation, you have the following command that creates a virtual machine named VM1. az vm create --resource-group RG1 --
@@ -3056,7 +3056,7 @@ References:
 https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli
 Community vote distribution
 A (43%) B (43%) 14%
-Question #196 Topic 1
+Question #196 
 Your company has several business units.
 Each business unit requires 20 different Azure resources for daily operation. All the business units require the same type of Azure resources.
 You need to recommend a solution to automate the creation of the Azure resources.
@@ -3077,7 +3077,7 @@ References:
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview
 Community vote distribution
 A (100%)
-Question #197 Topic 1
+Question #197 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -3086,7 +3086,7 @@ Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/quick-acm-cost-analysis https://docs.microsoft.com/enus/
 azure/cost-management-billing/costs/cost-analysis-common-uses
-Question #198 Topic 1
+Question #198 
 What can you use to identify underutilized or unused Azure virtual machines?
 A. Azure Advisor
 B. Azure Cost Management + Billing
@@ -3099,7 +3099,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/advisor/advisor-overview
 Community vote distribution
 A (100%)
-Question #199 Topic 1
+Question #199 
 HOTSPOT -
 Which node in the Azure portal should you use to assign a user the Reader role for a resource group? To answer, select the node in the answer
 area.
@@ -3126,7 +3126,7 @@ If you don't have permissions to assign roles, the Add role assignment option wi
 4. The Add role assignment page opens.
 Reference:
 https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal
-Question #200 Topic 1
+Question #200 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -3136,7 +3136,7 @@ Azure Databricks is a fast, easy, and collaborative Apache Spark-based big data 
 engineering.
 Reference:
 https://azure.microsoft.com/en-us/services/databricks/
-Question #201 Topic 1
+Question #201 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -3153,7 +3153,7 @@ Delete a cloud service or a deployment.
 Box 3: Yes -
 Reference:
 https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-how-to-manage-portal
-Question #202 Topic 1
+Question #202 
 DRAG DROP -
 Match the Azure service to the correct definition.
 Instructions: To answer, drag the appropriate Azure service from the column on the left to its description on the right. Each service may be used
@@ -3186,7 +3186,7 @@ https://docs.microsoft.com/en-us/azure/azure-functions/
 https://docs.microsoft.com/en-us/azure/azure-databricks/what-is-azure-databricks#apache-spark-based-analytics-platform
 https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview https://docs.microsoft.com/en-us/azure/appservice/
 overview
-Question #203 Topic 1
+Question #203 
 A team of developers at your company plans to deploy, and then remove, 50 customized virtual machines each week. Thirty of the virtual
 machines run Windows
 Server 2016 and 20 of the virtual machines run Ubuntu Linux.
@@ -3206,7 +3206,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/lab-services/devtest-lab-overview
 Community vote distribution
 C (100%)
-Question #204 Topic 1
+Question #204 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -3218,7 +3218,7 @@ Docker container.
 Reference:
 https://docs.microsoft.com/en-us/powershell/azure/what-is-azure-powershell?view=azps-6.6.0
 https://serverfault.com/questions/323973/how-do-i-access-the-windows-azure-management-portal-from-ubuntu
-Question #205 Topic 1
+Question #205 
 A support engineer plans to perform several Azure management tasks by using the Azure CLI.
 You install the CLI on a computer.
 You need to tell the support engineer which tools to use to run the CLI.
@@ -3236,7 +3236,7 @@ References:
 https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?view=azure-cli-latest
 Community vote distribution
 AC (100%)
-Question #206 Topic 1
+Question #206 
 
 You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system.
 Solution: You use PowerShell in Azure Cloud Shell.
@@ -3252,7 +3252,7 @@ References:
 https://docs.microsoft.com/en-us/azure/cloud-shell/features
 Community vote distribution
 A (75%) R (25%)
-Question #207 Topic 1
+Question #207 
 
 You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system.
 Solution: You use the PowerApps portal.
@@ -3268,7 +3268,7 @@ References:
 https://powerapps.microsoft.com/en-us/blog/introducing-powerapps-portals-powerful-low-code-websites-for-external-users/
 Community vote distribution
 B (100%)
-Question #208 Topic 1
+Question #208 
 
 You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system.
 Solution: You use the Azure portal.
@@ -3284,7 +3284,7 @@ References:
 https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-overview
 Community vote distribution
 A (75%) R (25%)
-Question #209 Topic 1
+Question #209 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -3302,7 +3302,7 @@ information, such as
 Severity, Status, Category, and more.
 Reference:
 https://docs.microsoft.com/en-us/microsoft-365/compliance/microsoft-365-compliance-center
-Question #210 Topic 1
+Question #210 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -3327,7 +3327,7 @@ network gateway.
 steps which is recognized as execution boundary. Each job runs on an agent. All of the steps run together on the same agent.
 Reference:
 https://docs.microsoft.com/en-us/azure/azure-arc/overview
-Question #211 Topic 1
+Question #211 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -3341,7 +3341,7 @@ Box 3: Yes -
 Reference:
 https://azure.microsoft.com/en-us/features/storage-explorer/
 https://docs.microsoft.com/en-us/azure/cloud-services/automation-manage-cloud-services
-Question #212 Topic 1
+Question #212 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -3351,7 +3351,7 @@ Machine Learning library consisting of common learning algorithms and utilities,
 filtering, dimensionality reduction, as well as underlying optimization primitives.
 Reference:
 https://docs.microsoft.com/en-us/azure/azure-databricks/what-is-azure-databricks#apache-spark-based-analytics-platform
-Question #213 Topic 1
+Question #213 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -3367,7 +3367,7 @@ Azure Monitor uses Target Resource, which is the scope and signals available for
 a virtual machine, a storage account, a virtual machine scale set, a Log Analytics workspace, or an Application Insights resource.
 References:
 https://docs.microsoft.com/en-us/azure/azure-monitor/overview https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alertsoverview
-Question #214 Topic 1
+Question #214 
 Which Azure service provides a set of version control tools to manage code?
 A. Azure Repos
 B. Azure DevTest Labs
@@ -3383,7 +3383,7 @@ References:
 https://docs.microsoft.com/en-us/azure/devops/repos/get-started/what-is-repos?view=azure-devops
 Community vote distribution
 A (100%)
-Question #215 Topic 1
+Question #215 
 HOTSPOT -
 You need to manage Azure by using Azure Cloud Shell.
 Which Azure portal icon should you select? To answer, select the appropriate icon in the answer area.
@@ -3395,7 +3395,7 @@ the shell experience that best suits the way you work, either Bash or PowerShell
 Cloud Shell enables access to a browser-based command-line experience built with Azure management tasks in mind.
 References:
 https://docs.microsoft.com/en-us/azure/cloud-shell/overview?view=azure-cli-latest
-Question #216 Topic 1
+Question #216 
 You have a virtual machine named VM1 that runs Windows Server 2016. VM1 is in the East US Azure region.
 Which Azure service should you use from the Azure portal to view service failure notifications that can affect the availability of VM1?
 A. Azure Service Fabric
@@ -3412,7 +3412,7 @@ References:
 https://docs.microsoft.com/en-us/azure/virtual-machines/maintenance-and-updates
 Community vote distribution
 B (65%) C (35%)
-Question #217 Topic 1
+Question #217 
 
 Your Azure environment contains multiple Azure virtual machines.
 You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP.
@@ -3430,7 +3430,7 @@ In this question, we need to add a rule to a network security group or Azure Fir
 (HTTP).
 References:
 https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-overview
-Question #218 Topic 1
+Question #218 
 Your company plans to deploy several web servers and several database servers to Azure.
 You need to recommend an Azure solution to limit the types of connections from the web servers to the database servers.
 What should you include in the recommendation?
@@ -3447,7 +3447,7 @@ You can filter network traffic to and from Azure resources in an Azure virtual n
 contains security rules that allow or deny inbound network traffic to, or outbound network traffic from, several types of Azure resources.
 References:
 https://docs.microsoft.com/en-us/azure/virtual-network/security-overview
-Question #219 Topic 1
+Question #219 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -3457,7 +3457,7 @@ Activity logs are kept for 90 days. You can query for any range of dates, as lon
 In this question, we would create a filter to display shutdown operations on the virtual machine in the last 14 days.
 Reference:
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-audit
-Question #220 Topic 1
+Question #220 
 Which service provides network traffic filtering across multiple Azure subscriptions and virtual networks?
 A. Azure Firewall
 B. an application security group
@@ -3472,7 +3472,7 @@ Firewall uses a static public IP address for your virtual network resources allo
 virtual network.
 References:
 https://docs.microsoft.com/en-us/azure/firewall/overview
-Question #221 Topic 1
+Question #221 
 Which Azure service should you use to store certificates?
 A. Azure Security Center
 B. an Azure Storage account
@@ -3490,7 +3490,7 @@ References:
 https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview
 Community vote distribution
 C (100%)
-Question #222 Topic 1
+Question #222 
 Which Azure service can you use as a security information and event management (SIEM) solution?
 A. Azure Analysis Services
 B. Azure Sentinel
@@ -3499,7 +3499,7 @@ D. Azure Cognitive Services
 Correct Answer: B
 Reference:
 https://azure.microsoft.com/en-in/services/azure-sentinel/
-Question #223 Topic 1
+Question #223 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -3507,7 +3507,7 @@ Hot Area:
 Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/azure/sentinel/overview
-Question #224 Topic 1
+Question #224 
 DRAG DROP -
 Match the Azure Services service to the correct descriptions.
 Instructions: To answer, drag the appropriate service from the column on the left to its description on the right. Each service may be used once,
@@ -3527,7 +3527,7 @@ https://docs.microsoft.com/en-us/azure/sentinel/overview
 https://docs.microsoft.com/en-us/azure/security-center/secure-score-security-controls https://practical365.com/securing-sensitiveinformation-
 in-azure-functions-with-the-azure-key-vault/ https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/activedirectory-
 whatis https://docs.microsoft.com/en-us/azure/lighthouse/overview
-Question #225 Topic 1
+Question #225 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -3546,7 +3546,7 @@ configured to require or accept the encryption.
 However, the VM could not encrypt the traffic to an Internet host that is not configured to require the encryption.
 Reference:
 https://docs.microsoft.com/en-us/azure/security/azure-security-data-encryption-best-practices#protect-data-in-transit
-Question #226 Topic 1
+Question #226 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -3562,7 +3562,7 @@ The advanced monitoring capabilities in Security Center also let you track and m
 compliance provides you with a measure of how much your subscriptions are compliant with policies associated with your workload.
 References:
 https://docs.microsoft.com/en-us/azure/security-center/security-center-intro
-Question #227 Topic 1
+Question #227 
 DRAG DROP -
 You need to complete the defense-in-depth strategy used in a datacenter.
 What should you do? To answer, drag the appropriate layers to the correct positions in the model. Each layer may be used once, more than once, or
@@ -3607,7 +3607,7 @@ Defence in depth layers (from bottom to top):
 Reference:
 https://github.com/undergroundwires/Azure-in-bullet-points/blob/master/AZ-
 900%20Microsoft%20Azure%20Fundamentals/4.2.%20Defence%20in%20Depth.md
-Question #228 Topic 1
+Question #228 
 You have an Azure virtual machine named VM1.
 You plan to encrypt VM1 by using Azure Disk Encryption.
 Which Azure resource must you create first?
@@ -3621,7 +3621,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/virtual-machines/windows/disk-encryption-overview
 Community vote distribution
 B (100%)
-Question #229 Topic 1
+Question #229 
 Which resources can be used as a source for a Network security group inbound security rule?
 A. Service Tags only
 B. IP Addresses, Service tags and Application security groups
@@ -3635,28 +3635,28 @@ Reference:
 https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview
 Community vote distribution
 B (100%)
-Question #230 Topic 1
+Question #230 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
 Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/azure/sentinel/tutorial-respond-threats-playbook
-Question #231 Topic 1
+Question #231 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
 Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/azure/firewall/tutorial-firewall-dnat-policy
-Question #232 Topic 1
+Question #232 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
 Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview
-Question #233 Topic 1
+Question #233 
 You have an Azure Sentinel workspace.
 You need to automate responses to threats detected by Azure Sentinel.
 What should you use?
@@ -3667,7 +3667,7 @@ D. adaptive application controls in Azure Security Center
 Correct Answer: C
 Community vote distribution
 C (100%)
-Question #234 Topic 1
+Question #234 
 DRAG DROP -
 Match the Azure services benefits to the correct descriptions.
 Instructions: To answer, drag the appropriate benefit from the column on the left to its description on the right. Each benefit may be used once,
@@ -3689,7 +3689,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/sentinel/overview
 https://docs.microsoft.com/en-us/azure/defender-for-cloud/secure-score-access-and-track https://levelup.gitconnected.com/a-secure-way-touse-
 credentials-and-secrets-in-azure-functions-7ec91813c807
-Question #235 Topic 1
+Question #235 
 Which Azure service can you use as a security information and event management (SIEM) solution?
 A. Azure Analysis Services
 B. Microsoft Sentinel
@@ -3703,7 +3703,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/sentinel/overview
 Community vote distribution
 B (100%)
-Question #236 Topic 1
+Question #236 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -3713,7 +3713,7 @@ An Azure Policy initiative is a collection of Azure Policy definitions, or rules
 initiatives simplify management of your policies by grouping a set of policies together, logically, as a single item.
 Reference:
 https://docs.microsoft.com/en-us/azure/defender-for-cloud/security-policy-concept
-Question #237 Topic 1
+Question #237 
 You have an Azure subscription.
 You need to review your secure score.
 What should you use?
@@ -3727,7 +3727,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls
 Community vote distribution
 D (100%)
-Question #238 Topic 1
+Question #238 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -3737,7 +3737,7 @@ Lock down inbound traffic to your Azure Virtual Machines with Microsoft Defender
 feature. This reduces exposure to attacks while providing easy access when you need to connect to a VM.
 Reference:
 https://docs.microsoft.com/en-us/azure/defender-for-cloud/just-in-time-access-usage
-Question #239 Topic 1
+Question #239 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -3748,7 +3748,7 @@ dashboard.
 You can download PDF/CSV reports as well as certification reports of your compliance status.
 Reference:
 https://docs.microsoft.com/en-us/azure/defender-for-cloud/regulatory-compliance-dashboard
-Question #240 Topic 1
+Question #240 
 You need to collect and automatically analyze security events from Azure Active Directory (Azure AD).
 What should you use?
 A. Microsoft Sentinel
@@ -3764,7 +3764,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/sentinel/overview
 Community vote distribution
 A (100%)
-Question #241 Topic 1
+Question #241 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -3776,7 +3776,7 @@ Application security groups enable you to configure network security as a natura
 virtual machines and define network security policies based on those groups.
 Reference:
 https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/add-application-portal-setup-sso
-Question #242 Topic 1
+Question #242 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -3790,7 +3790,7 @@ Box 3: Yes -
 Azure creates the Inbound and OutBound default rules in each network security group that you create.
 Reference:
 https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview
-Question #243 Topic 1
+Question #243 
 DRAG DROP -
 Match the term to the appropriate description.
 To answer, drag the appropriate term from the column on the left to its description on the right. Each term may be used once, more than once, or
@@ -3798,7 +3798,7 @@ not at all.
 NOTE: Each correct match is worth one point.
 Select and Place:
 Correct Answer:
-Question #244 Topic 1
+Question #244 
 Your company plans to automate the deployment of servers to Azure.
 Your manager is concerned that you may expose administrative credentials during the deployment.
 You need to recommend an Azure solution that encrypts the administrative credentials during the deployment.
@@ -3814,7 +3814,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/key-vault/general/security-features
 Community vote distribution
 A (100%)
-Question #245 Topic 1
+Question #245 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -3825,7 +3825,7 @@ security group contains security rules that allow or deny inbound network traffi
 resources. For each rule, you can specify source and destination, port, and protocol.
 Reference:
 https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview
-Question #246 Topic 1
+Question #246 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -3834,7 +3834,7 @@ Box: networking layer -
 DDoS Protection defends against a comprehensive set of network layer (layer 3/4) attacks.
 Reference:
 https://azure.microsoft.com/en-us/services/ddos-protection
-Question #247 Topic 1
+Question #247 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -3848,7 +3848,7 @@ personnel, close noisy incidents or known false positives, change their severity
 run playbooks in response to incidents.
 Reference:
 https://docs.microsoft.com/en-us/azure/sentinel/tutorial-respond-threats-playbook
-Question #248 Topic 1
+Question #248 
 You need to configure an Azure solution that meets the following requirements:
 ✑ Secures websites from attacks
 ✑ Generates reports that contain details of attempted attacks
@@ -3869,7 +3869,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/security/fundamentals/ddos-best-practices
 Community vote distribution
 D (100%)
-Question #249 Topic 1
+Question #249 
 HOTSPOT -
 You plan to implement several security services for an Azure environment. You need to identify which Azure services must be used to meet the
 following security requirements:
@@ -3891,7 +3891,7 @@ Access policy to require MFA registration no matter what modern authentication a
 References:
 https://docs.microsoft.com/en-us/azure-advanced-threat-protection/what-is-atp https://docs.microsoft.com/en-us/azure/activedirectory/
 identity-protection/howto-identity-protection-configure-mfa-policy
-Question #250 Topic 1
+Question #250 
 Your Azure environment contains multiple Azure virtual machines.
 You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP.
 What are two possible solutions? Each correct answer presents a complete solution.
@@ -3912,7 +3912,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/virtual-network/security-overview
 Community vote distribution
 B (53%) D (47%)
-Question #251 Topic 1
+Question #251 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -3921,7 +3921,7 @@ The just-in-time (JIT) virtual machine (VM) access feature in Azure Security Cen
 Machines. This reduces exposure to attacks while providing easy access when you need to connect to a VM.
 Reference:
 https://docs.microsoft.com/en-us/azure/security-center/security-center-just-in-time?tabs=jit-config-asc%2Cjit-request-asc
-Question #252 Topic 1
+Question #252 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -3929,7 +3929,7 @@ Hot Area:
 Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/azure/virtual-network/network-security-group-how-it-works
-Question #253 Topic 1
+Question #253 
 You have an Azure environment that contains 10 virtual networks and 100 virtual machines.
 You need to limit the amount of inbound traffic to all the Azure virtual networks.
 What should you create?
@@ -3948,7 +3948,7 @@ References:
 https://docs.microsoft.com/en-us/azure/firewall/overview
 Community vote distribution
 D (100%)
-Question #254 Topic 1
+Question #254 
 This question requires that you evaluate the underlined text to determine if it is correct.
 Azure Key Vault is used to store secrets for Azure Active Directory (Azure AD) user accounts.
 Instructions: Review the underlined text. If it makes the statement correct, select `No change is needed`. If the statement is incorrect, select the
@@ -3965,7 +3965,7 @@ https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vau
 azure/key-vault/key-vault-overview https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/
 Community vote distribution
 D (68%) A (30%)
-Question #255 Topic 1
+Question #255 
 Your company plans to automate the deployment of servers to Azure.
 Your manager is concerned that you may expose administrative credentials during the deployment.
 You need to recommend an Azure solution that encrypts the administrative credentials during the deployment.
@@ -3989,7 +3989,7 @@ References:
 https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview
 Community vote distribution
 A (100%)
-Question #256 Topic 1
+Question #256 
 You plan to deploy several Azure virtual machines.
 You need to control the ports that devices on the Internet can use to access the virtual machines.
 What should you use?
@@ -4008,7 +4008,7 @@ References:
 https://docs.microsoft.com/en-us/azure/virtual-network/security-overview
 Community vote distribution
 A (100%)
-Question #257 Topic 1
+Question #257 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -4024,7 +4024,7 @@ contains security rules that allow or deny inbound network traffic to, or outbou
 In this question, we need to add a rule to the network security group to allow the connection to the virtual machine on port 8080.
 Reference:
 https://docs.microsoft.com/en-us/azure/virtual-network/security-overview
-Question #258 Topic 1
+Question #258 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -4032,7 +4032,7 @@ Hot Area:
 Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#owner
-Question #259 Topic 1
+Question #259 
 
 Your Azure environment contains multiple Azure virtual machines.
 You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP.
@@ -4052,7 +4052,7 @@ References:
 https://docs.microsoft.com/en-us/azure/virtual-network/security-overview
 Community vote distribution
 A (83%) B (17%)
-Question #260 Topic 1
+Question #260 
 
 Your Azure environment contains multiple Azure virtual machines.
 You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP.
@@ -4069,7 +4069,7 @@ References:
 https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview
 Community vote distribution
 B (100%)
-Question #261 Topic 1
+Question #261 
 You need to collect and automatically analyze security events from Azure Active Directory (Azure AD).
 What should you use?
 A. Azure Sentinel
@@ -4081,7 +4081,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/sentinel/overview
 Community vote distribution
 A (100%)
-Question #262 Topic 1
+Question #262 
 
 Your Azure environment contains multiple Azure virtual machines.
 You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP.
@@ -4097,7 +4097,7 @@ References:
 https://docs.microsoft.com/en-us/azure/firewall/overview
 Community vote distribution
 A (100%)
-Question #263 Topic 1
+Question #263 
 This question requires that you evaluate the underlined text to determine if it is correct.
 Azure Germany can be used by legal residents of Germany only.
 Instructions: Review the underlined text. If it makes the statement correct, select `No change is needed`. If the statement is incorrect, select the
@@ -4119,7 +4119,7 @@ https://docs.microsoft.com/en-us/azure/germany/germany-welcome?toc=%2fazure%2fge
 azure/germany/germany-overview-data-trustee
 Community vote distribution
 D (100%)
-Question #264 Topic 1
+Question #264 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -4142,7 +4142,7 @@ service to provide secure access to Azure resources.
 References:
 https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-whatis https://docs.microsoft.com/en-us/azure/activedirectory/
 hybrid/whatis-fed https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-scenarios
-Question #265 Topic 1
+Question #265 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -4151,7 +4151,7 @@ The advanced monitoring capabilities in Security Center lets you track and manag
 compliance provides you with a measure of how much your subscriptions are compliant with policies associated with your workload.
 Reference:
 https://docs.microsoft.com/en-us/azure/security-center/security-center-intro
-Question #266 Topic 1
+Question #266 
 What should you use to evaluate whether your company's Azure environment meets regulatory requirements?
 A. Azure Service Health
 B. Azure Knowledge Center
@@ -4164,7 +4164,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/security-center/security-center-intro
 Community vote distribution
 C (100%)
-Question #267 Topic 1
+Question #267 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -4178,7 +4178,7 @@ credit card information. The label would then add the watermark to the documents
 Reference:
 https://docs.microsoft.com/en-us/azure/information-protection/what-is-information-protection https://docs.microsoft.com/enus/
 azure/information-protection/infoprotect-quick-start-tutorial
-Question #268 Topic 1
+Question #268 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -4191,7 +4191,7 @@ Azure Active Directory (Azure AD) is a centralized identity provider in the clou
 service to provide secure access to Azure resources and Microsoft 365.
 Box 3: No -
 User accounts in Azure Active Directory can be assigned multiple licenses for different Azure or Microsoft 365 services.
-Question #269 Topic 1
+Question #269 
 Which two types of customers are eligible to use Azure Government to develop a cloud solution? Each correct answer presents a complete
 solution.
 NOTE: Each correct selection is worth one point.
@@ -4211,7 +4211,7 @@ References:
 https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-government/2-what-is-azure-government
 Community vote distribution
 CD (100%)
-Question #270 Topic 1
+Question #270 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -4229,7 +4229,7 @@ You can configure MFA to be required for administrator accounts only or you can 
 Reference:
 https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted https://docs.microsoft.com/en-us/azure/activedirectory/
 authentication/concept-authentication-methods
-Question #271 Topic 1
+Question #271 
 You need to ensure that when Azure Active Directory (Azure AD) users connect to Azure AD from the Internet by using an anonymous IP address,
 the users are prompted automatically to change their password.
 Which Azure service should you use?
@@ -4249,7 +4249,7 @@ https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/howt
 azure/active-directory/identity-protection/concept-identity-protection-risks
 Community vote distribution
 D (100%)
-Question #272 Topic 1
+Question #272 
 DRAG DROP -
 Match the term to the correct definition.
 Instructions: To answer, drag the appropriate term from the column on the left to its description on the right. Each term may be used once, more
@@ -4285,7 +4285,7 @@ References:
 https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology
 https://en.wikipedia.org/wiki/General_Data_Protection_Regulation https://docs.microsoft.com/en-us/azure/azure-government/documentationgovernment-
 welcome
-Question #273 Topic 1
+Question #273 
 To what should an application connect to retrieve security tokens?
 A. an Azure Storage account
 B. Azure Active Directory (Azure AD)
@@ -4302,7 +4302,7 @@ https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vau
 azure/key-vault/key-vault-overview
 Community vote distribution
 D (62%) B (38%)
-Question #274 Topic 1
+Question #274 
 Your network contains an Active Directory forest. The forest contains 5,000 user accounts.
 Your company plans to migrate all network resources to Azure and to decommission the on-premises data center.
 You need to recommend a solution to minimize the impact on users after the planned migration.
@@ -4323,7 +4323,7 @@ References:
 https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-whatis
 Community vote distribution
 B (100%)
-Question #275 Topic 1
+Question #275 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -4343,7 +4343,7 @@ sources.
 References:
 https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-activity-logs-azure-monitor
 https://docs.microsoft.com/en-us/azure/azure-monitor/overview
-Question #276 Topic 1
+Question #276 
 HOTSPOT -
 You create a resource group named RG1 in Azure Resource Manager.
 You need to prevent the accidental deletion of the resources in RG1.
@@ -4359,7 +4359,7 @@ Delete and Read-only respectively.
 all authorized users to the permissions granted by the Reader role.
 Reference:
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-lock-resources
-Question #277 Topic 1
+Question #277 
 You have a resource group named RG1.
 You need to prevent the creation of virtual machines in RG1. The solution must ensure that other objects can be created in RG1.
 What should you use?
@@ -4380,7 +4380,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/governance/policy/overview
 Community vote distribution
 D (100%)
-Question #278 Topic 1
+Question #278 
 You have an Azure subscription and 100 Windows 10 devices.
 You need to ensure that only users whose devices have the latest security patches installed can access Azure Active Directory (Azure AD)-
 integrated applications.
@@ -4394,7 +4394,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-policies
 Community vote distribution
 A (100%)
-Question #279 Topic 1
+Question #279 
 What can Azure Information Protection encrypt?
 A. network traffic
 B. documents and email messages
@@ -4417,7 +4417,7 @@ https://docs.microsoft.com/en-us/azure/information-protection/what-is-informatio
 azure/information-protection/quickstart-label-dnf-protectedemail
 Community vote distribution
 B (100%)
-Question #280 Topic 1
+Question #280 
 What should you use to evaluate whether your company's Azure environment meets regulatory requirements?
 A. the Knowledge Center website
 B. the Advisor blade from the Azure portal
@@ -4428,12 +4428,12 @@ Compliance Manager in the Service Trust Portal is a workflow-based risk assessme
 organization's regulatory compliance activities related to Microsoft Cloud services, such as Microsoft 365, Dynamics 365, and Azure.
 Reference:
 https://docs.microsoft.com/en-us/microsoft-365/compliance/get-started-with-service-trust-portal?view=o365-worldwide
-Question #281 Topic 1
+Question #281 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
 Correct Answer:
-Question #282 Topic 1
+Question #282 
 You have an Azure subscription.
 Where will you find details on the personal data collected by Microsoft, how Microsoft uses the data, and what the data is used for?
 A. the Data Protection Addendum
@@ -4448,7 +4448,7 @@ Reference:
 https://azure.microsoft.com/en-us/support/legal/
 Community vote distribution
 C (100%)
-Question #283 Topic 1
+Question #283 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -4458,7 +4458,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis https://docs.microsoft.com/enus/
 azure/active-directory/manage-apps/what-is-single-sign-on https://docs.microsoft.com/en-us/azure/active-directory/devices/conceptazure-
 ad-register
-Question #284 Topic 1
+Question #284 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -4470,7 +4470,7 @@ If there are any existing resources that aren't compliant with a new policy assi
 Reference:
 https://docs.microsoft.com/en-us/azure/governance/policy/overview https://docs.microsoft.com/en-us/azure/governance/policy/assignpolicy-
 portal
-Question #285 Topic 1
+Question #285 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -4478,7 +4478,7 @@ Hot Area:
 Correct Answer:
 Reference:
 https://www.microsoft.com/en-us/trust-center
-Question #286 Topic 1
+Question #286 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -4493,7 +4493,7 @@ Tags applied to the resource group or subscription aren't inherited by the resou
 Reference:
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-policies https://docs.microsoft.com/enus/
 azure/governance/policy/tutorials/govern-tags https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tagresources
-Question #287 Topic 1
+Question #287 
 DRAG DROP -
 Match the resources to the appropriate descriptions.
 To answer, drag the appropriate resource from the column on the left to its description on the right. Each resource may be used once, more than
@@ -4503,21 +4503,21 @@ Select and Place:
 Correct Answer:
 Reference:
 https://azure.microsoft.com/en-us/support/legal/
-Question #288 Topic 1
+Question #288 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
 Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks
-Question #289 Topic 1
+Question #289 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
 Correct Answer:
 Reference:
 https://support.azure.cn/en-us/support/faq/
-Question #290 Topic 1
+Question #290 
 What should you use to evaluate whether your company's Azure environment meets regulatory requirements?
 A. Azure Service Health
 B. Azure Knowledge Center
@@ -4530,7 +4530,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/defender-for-cloud/regulatory-compliance-dashboard
 Community vote distribution
 C (100%)
-Question #291 Topic 1
+Question #291 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -4560,7 +4560,7 @@ The Security & Compliance Center lets you grant permissions to people who perfor
 prevention, eDiscovery, retention, and so on. These people can perform only the tasks that you explicitly grant them access to.
 Reference:
 https://docs.microsoft.com/en-us/microsoft-365/compliance/get-started-with-service-trust-portal
-Question #292 Topic 1
+Question #292 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -4568,7 +4568,7 @@ Hot Area:
 Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/microsoft-365/compliance/get-started-with-service-trust-portal?view=o365-worldwide
-Question #293 Topic 1
+Question #293 
 Your company has an Azure subscription that contains resources in several regions.
 You need to create the Azure resource that must be used to meet the policy requirement.
 What should you create?
@@ -4588,7 +4588,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/governance/policy/overview
 Community vote distribution
 B (100%)
-Question #294 Topic 1
+Question #294 
 This question requires that you evaluate the underlined text to determine if it is correct.
 From Azure Cloud Shell, you can track your company's regulatory standards and regulations, such as ISO 27001.
 Instructions: Review the underlined text. If it makes the statement correct, select `No change is needed.` If the statement is incorrect, select the
@@ -4606,7 +4606,7 @@ https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-manager-ove
 overview
 Community vote distribution
 C (60%) D (40%)
-Question #295 Topic 1
+Question #295 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -4616,7 +4616,7 @@ Azure AD join only applies to Windows 10 devices.
 Reference:
 https://docs.microsoft.com/en-us/azure/active-directory-domain-services/manage-group-policy https://docs.microsoft.com/enus/
 azure/active-directory/devices/azureadjoin-plan
-Question #296 Topic 1
+Question #296 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -4625,7 +4625,7 @@ The Microsoft Privacy Statement explains what personal data Microsoft processes,
 processing the data
 Reference:
 https://privacy.microsoft.com/en-us/privacystatement
-Question #297 Topic 1
+Question #297 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -4636,21 +4636,21 @@ The difference between authentication and authorization is:
 by providing credentials such as a username and password.
 ✑ Authorization is what you're allowed to do once you've been authenticated. For example, what resources you're allowed to access and what
 you can do with those resources.
-Question #298 Topic 1
+Question #298 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
 Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/azure/governance/policy/overview
-Question #299 Topic 1
+Question #299 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
 Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/azure/governance/policy/overview
-Question #300 Topic 1
+Question #300 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -4658,7 +4658,7 @@ Hot Area:
 Correct Answer:
 Reference:
 https://azure.microsoft.com/en-gb/blog/new-capabilities-to-enable-robust-gdpr-compliance/
-Question #301 Topic 1
+Question #301 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -4666,7 +4666,7 @@ Hot Area:
 Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/azure/governance/blueprints/overview
-Question #302 Topic 1
+Question #302 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -4675,7 +4675,7 @@ Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/azure/china/overview-operations https://docs.microsoft.com/en-us/azure/azuregovernment/
 documentation-government-welcome
-Question #303 Topic 1
+Question #303 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -4683,7 +4683,7 @@ Hot Area:
 Correct Answer:
 References:
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources
-Question #304 Topic 1
+Question #304 
 Your company plans to migrate all on-premises data to Azure.
 You need to identify whether Azure complies with the company's regional requirements.
 What should you use?
@@ -4701,7 +4701,7 @@ https://azure.microsoft.com/en-gb/overview/trusted-cloud/compliance/ https://doc
 with-service-trust-portal
 Community vote distribution
 D (100%)
-Question #305 Topic 1
+Question #305 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -4722,7 +4722,7 @@ service to provide secure access to Azure resources.
 References:
 https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-fed https://docs.microsoft.com/en-us/azure/activedirectory/
 develop/authentication-scenarios
-Question #306 Topic 1
+Question #306 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -4738,12 +4738,12 @@ authorized
 users to the permissions granted by the Reader role.
 Reference:
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-lock-resources
-Question #307 Topic 1
+Question #307 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
 Correct Answer:
-Question #308 Topic 1
+Question #308 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -4758,7 +4758,7 @@ Reference:
 https://docs.microsoft.com/learn/modules/secure-access-azure-identity-services/3-what-is-azure-active-directory
 https://docs.microsoft.com/learn/modules/secure-access-azure-identity-services/2-compare-authentication-authorization
 https://docs.microsoft.com/learn/modules/secure-access-azure-identity-services/4-what-are-mfa-conditional-access
-Question #309 Topic 1
+Question #309 
 What is guaranteed in an Azure Service Level Agreement (SLA) for virtual machines?
 A. uptime
 B. feature availability
@@ -4782,7 +4782,7 @@ https://azure.microsoft.com/en-us/support/legal/sla/summary/
 https://azure.microsoft.com/en-us/support/legal/sla/virtual-machines/v1_9/
 Community vote distribution
 A (75%) B (25%)
-Question #310 Topic 1
+Question #310 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -4796,7 +4796,7 @@ Services in private preview are available only to selected people who has signed
 ✑ Services provided under an Enterprise Agreement (EA) subscription are available only to the subscription owner.
 Reference:
 https://www.neowin.net/news/several-more-azure-services-now-available-in-private-public-preview/
-Question #311 Topic 1
+Question #311 
 
 Your company plans to purchase an Azure subscription.
 The company's support policy states that the Azure environment must provide an option to access support engineers by phone or email.
@@ -4812,7 +4812,7 @@ Reference:
 https://azure.microsoft.com/en-gb/support/plans/
 Community vote distribution
 B (100%)
-Question #312 Topic 1
+Question #312 
 
 Your company plans to purchase an Azure subscription.
 The company's support policy states that the Azure environment must provide an option to access support engineers by phone or email.
@@ -4827,7 +4827,7 @@ Reference:
 https://azure.microsoft.com/en-gb/support/plans/
 Community vote distribution
 A (100%)
-Question #313 Topic 1
+Question #313 
 
 Your company plans to purchase an Azure subscription.
 The company's support policy states that the Azure environment must provide an option to access support engineers by phone or email.
@@ -4840,7 +4840,7 @@ Correct Answer: A
 The Standard, Professional Direct, and Premier support plans have technical support for engineers via email and phone.
 Reference:
 https://azure.microsoft.com/en-gb/support/plans/
-Question #314 Topic 1
+Question #314 
 Your company plans to request an architectural review of an Azure environment from Microsoft.
 The company currently has a Basic support plan.
 You need to recommend a new support plan for the company. The solution must minimize costs.
@@ -4856,7 +4856,7 @@ Reference:
 https://azure.microsoft.com/en-gb/support/plans/
 Community vote distribution
 C (50%) B (38%) 8%
-Question #315 Topic 1
+Question #315 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -4870,7 +4870,7 @@ Azure services in public preview can be managed using the regular management too
 Box 3: No -
 Services in private or public preview are usually offered at reduced costs. However, the costs increase, not decrease when the services are
 released to general availability.
-Question #316 Topic 1
+Question #316 
 What is required to use Azure Cost Management?
 A. a Dev/Test subscription
 B. Software Assurance
@@ -4887,7 +4887,7 @@ Reference:
 https://docs.microsoft.com/en-gb/azure/cost-management/overview-cost-mgt
 Community vote distribution
 D (88%) 12%
-Question #317 Topic 1
+Question #317 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -4898,7 +4898,7 @@ Incorrect Answers:
 ✑ You are not charged for Azure Active Directory user accounts so you can continue to create accounts.
 ✑ You can access data that is already stored in Azure.
 ✑ You can access the Azure Portal. You can also reactivate and upgrade the expired subscription in the portal.
-Question #318 Topic 1
+Question #318 
 
 Your company plans to purchase an Azure subscription.
 The company's support policy states that the Azure environment must provide an option to access support engineers by phone or email.
@@ -4915,7 +4915,7 @@ Reference:
 https://azure.microsoft.com/en-gb/support/plans/
 Community vote distribution
 A (100%)
-Question #319 Topic 1
+Question #319 
 Your company has a Software Assurance agreement that includes Microsoft SQL Server licenses.
 You plan to deploy SQL Server on Azure virtual machines.
 What should you do to minimize licensing costs for the deployment?
@@ -4930,7 +4930,7 @@ Reference:
 https://azure.microsoft.com/en-us/pricing/hybrid-benefit/
 Community vote distribution
 B (100%)
-Question #320 Topic 1
+Question #320 
 Your company has 10 departments.
 The company plans to implement an Azure environment.
 You need to ensure that each department can use a different payment option for the Azure services it consumes.
@@ -4956,7 +4956,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/create-subscription
 Community vote distribution
 B (100%)
-Question #321 Topic 1
+Question #321 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -4972,7 +4972,7 @@ Reference:
 https://azure.microsoft.com/en-us/free/
 https://azure.microsoft.com/en-us/free/free-account-faq/
 https://docs.microsoft.com/en-us/azure/billing/billing-avoid-charges-free-account
-Question #322 Topic 1
+Question #322 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -4989,19 +4989,19 @@ Box 3: No -
 An Azure service in general availability is available to all Azure customers, not just a subset of the customers.
 Reference:
 https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/
-Question #323 Topic 1
+Question #323 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
 Hot Area:
 Correct Answer:
-Question #324 Topic 1
+Question #324 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
 Hot Area:
 Correct Answer:
-Question #325 Topic 1
+Question #325 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -5015,7 +5015,7 @@ service failing is independent, so the composite SLA for this application is 99.
 which isn't surprising because an application that relies on multiple services has more potential failure points.
 Reference:
 https://docs.microsoft.com/en-us/azure/architecture/reliability/requirements#understand-service-level-agreements
-Question #326 Topic 1
+Question #326 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -5031,7 +5031,7 @@ The number of subscriptions is unrelated to uptime SLA's. You can deploy resourc
 have multiple subscriptions with resources deployed to the same region.
 Reference:
 https://azure.microsoft.com/en-us/support/legal/sla/summary/
-Question #327 Topic 1
+Question #327 
 Which statement accurately describes the Modern Lifecycle Policy for Azure services?
 A. Microsoft provides mainstream support for a service for five years.
 B. Microsoft provides a minimum of 12 months' notice before ending support for a service.
@@ -5044,7 +5044,7 @@ Reference:
 https://support.microsoft.com/en-us/help/30881/modern-lifecycle-policy
 Community vote distribution
 B (100%)
-Question #328 Topic 1
+Question #328 
 HOTSPOT -
 You need to request that Microsoft increase a subscription quota limit for your company.
 Which blade should you use from the Azure portal? To answer, select the appropriate blade in the answer area.
@@ -5053,7 +5053,7 @@ Correct Answer:
 Request a standard quota increase from Help + support
 Reference:
 https://docs.microsoft.com/en-us/azure/azure-portal/supportability/per-vm-quota-requests
-Question #329 Topic 1
+Question #329 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -5062,7 +5062,7 @@ Budget alerts notify you when spending, based on usage or cost, reaches or excee
 Cost Management budgets are created using the Azure portal or the Azure Consumption API.
 Reference:
 https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending
-Question #330 Topic 1
+Question #330 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -5070,7 +5070,7 @@ Hot Area:
 Correct Answer:
 Reference:
 https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/
-Question #331 Topic 1
+Question #331 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -5083,7 +5083,7 @@ Inbound data traffic is free but outbound data traffic is not.
 Box 3: Yes -
 Reference:
 https://azure.microsoft.com/en-us/pricing/details/expressroute/ https://azure.microsoft.com/en-us/pricing/details/bandwidth/
-Question #332 Topic 1
+Question #332 
 Your company has an Azure subscription that contains the following unused resources:
 ✑ 20 user accounts in Azure Active Directory (Azure AD)
 ✑ Five groups in Azure AD
@@ -5101,7 +5101,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/advisor/advisor-cost-recommendations#reduce-costs-by-deleting-or-reconfiguring-idle-virtual-networkgateways
 Community vote distribution
 B (100%)
-Question #333 Topic 1
+Question #333 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -5114,7 +5114,7 @@ machine), the virtual machine is still mounted on the physical server in Azure a
 storage costs. To ensure that a virtual machine is 'stopped (deallocated)', you need to stop the virtual machine in the Azure portal.
 Reference:
 https://blogs.technet.microsoft.com/uspartner_ts2team/2014/10/10/azure-virtual-machines-stopping-versus-stopping-deallocating/
-Question #334 Topic 1
+Question #334 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -5130,7 +5130,7 @@ You would be charge for the read operations of the source storage account and wr
 Reference:
 https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview https://azure.microsoft.com/engb/
 pricing/details/storage/blobs/
-Question #335 Topic 1
+Question #335 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -5149,7 +5149,7 @@ You can claim credit if the availability falls below the SLA. The amount of cred
 credit if the availability is less than 99.9%, 50% credit for less than 99% and 100% for less than 95% availability.
 References:
 https://azure.microsoft.com/en-gb/support/legal/sla/active-directory/v1_0/
-Question #336 Topic 1
+Question #336 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -5164,7 +5164,7 @@ Data egress over a VPN is data 'going out' of Azure over the VPN. You are charge
 Reference:
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/manage-resource-groups-portal https://azure.microsoft.com/enus/
 pricing/details/bandwidth/
-Question #337 Topic 1
+Question #337 
 Who can use the Azure Total Cost of Ownership (TCO) calculator?
 A. billing readers for an Azure subscription only
 B. owners for an Azure subscription only
@@ -5176,7 +5176,7 @@ Reference:
 https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/2-compare-costs-tco-calculator
 Community vote distribution
 C (86%) 14%
-Question #338 Topic 1
+Question #338 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -5193,7 +5193,7 @@ Service tier, as applicable. The Service Credits awarded in any billing month fo
 circumstance, exceed your monthly service fees for that Service or Service Resource, as applicable, in the billing month.
 Reference:
 https://azure.microsoft.com/en-gb/support/legal/sla/analysis-services/v1_0/
-Question #339 Topic 1
+Question #339 
 Which task can you perform by using Azure Advisor?
 A. Integrate Active Directory and Azure Active Directory (Azure AD).
 B. Estimate the costs of an Azure solution.
@@ -5205,7 +5205,7 @@ https://blog.pragmaticworks.com/what-is-azure-advisor#:~:
 text=Microsoft%20defines%20Azure%20Advisor%20as,solutions%20based%20on%20that%20data
 Community vote distribution
 C (100%)
-Question #340 Topic 1
+Question #340 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -5220,7 +5220,7 @@ Box 3: No -
 You can only create one free Azure account per Microsoft account.
 Reference:
 https://azure.microsoft.com/en-gb/free/
-Question #341 Topic 1
+Question #341 
 You have an Azure application that uses the services shown in the following table.
 How should you calculate the composite SLA for the application?
 A. 0.999 * 0.9999 = 0.9989001 = 99.89001%
@@ -5239,21 +5239,21 @@ Reference:
 https://docs.microsoft.com/en-us/azure/architecture/reliability/requirements#understand-service-level-agreements
 Community vote distribution
 A (100%)
-Question #342 Topic 1
+Question #342 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
 Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/shows/azure-videos/virtual-spot-machines-overview
-Question #343 Topic 1
+Question #343 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
 Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/azure/advisor/advisor-cost-recommendations https://build5nines.com/properly-shutdown-azure-vm-to-savemoney/
-Question #344 Topic 1
+Question #344 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -5262,7 +5262,7 @@ Public preview ג€" During this phase we allow any customer with the proper Az
 Support Services will supply support services during this phase, but normal service level agreements do not apply.
 Reference:
 https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms https://azure.microsoft.com/en-us/overview/what-is-saas/
-Question #345 Topic 1
+Question #345 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -5273,7 +5273,7 @@ needed for the VM's
 OS disk and any attached data disks.
 Reference:
 https://www.parkmycloud.com/does-azure-charge-for-stopped-vm/
-Question #346 Topic 1
+Question #346 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -5284,7 +5284,7 @@ Your privacy is important to us. This privacy statement explains the personal da
 what purposes.
 Reference:
 https://privacy.microsoft.com/en-us/privacystatement
-Question #347 Topic 1
+Question #347 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
@@ -5294,7 +5294,7 @@ Box: Microsoft 365 admin center -
 2. Select Compliance Manager on the left navigation pane. You'll arrive at your Compliance Manager dashboard.
 Reference:
 https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-manager-setup
-Question #348 Topic 1
+Question #348 
 You have 1,000 virtual machines hosted on the Hyper-V hosts in a data center.
 You plan to migrate all the virtual machines to an Azure pay-as-you-go subscription.
 You need to identify which expenditure model to use for the planned Azure solution.
@@ -5312,18 +5312,18 @@ Reference:
 https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/appendix/azure-scaffold
 Community vote distribution
 B (100%)
-Question #349 Topic 1
+Question #349 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
 Correct Answer:
-Question #350 Topic 1
+Question #350 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
 Hot Area:
 Correct Answer:
-Question #351 Topic 1
+Question #351 
 Which Service Level Agreement (SLA) is provided for Azure services in public preview?
 A. Each service defines its own SLA
 B. The SLA will be 99%
@@ -5332,12 +5332,12 @@ D. The SLA will be 99.95%
 Correct Answer: A
 Community vote distribution
 A (100%)
-Question #352 Topic 1
+Question #352 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
 Correct Answer:
-Question #353 Topic 1
+Question #353 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -5355,7 +5355,7 @@ Box 3: Yes -
 Reference:
 https://www.parkmycloud.com/blog/azure-region-pricing/
 https://blog.turbonomic.com/introducing-microsoft-azure-enterprise-agreement-ea-support-in-turbonomic-6.4
-Question #354 Topic 1
+Question #354 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -5374,7 +5374,7 @@ Operational Expenditures (OpEx) are the ongoing costs related to day-to-day oper
 OpEx ג€"the cloud provider is making the infrastructure investment upfront, and you only pay for the resources you need as you need them.
 Reference:
 https://azure.microsoft.com/en-us/pricing/purchase-options/pay-as-you-go/ https://blogs.vmware.com/cloudhealth/capex-vs-opex-cloud-costmanagement/
-Question #355 Topic 1
+Question #355 
 What is the longest term you can purchase for Azure Reserved VM instances?
 A. one year
 B. five years
@@ -5387,7 +5387,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/cost-management-billing/reservations/save-compute-costs-reservations
 Community vote distribution
 D (100%)
-Question #356 Topic 1
+Question #356 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -5406,7 +5406,7 @@ Box 3: No -
 Public previews are excluded from SLAs and in some cases, no support is offered.
 References:
 https://www.neowin.net/news/several-more-azure-services-now-available-in-private-public-preview/
-Question #357 Topic 1
+Question #357 
 Your company has 10 offices. You plan to generate several billing reports from the Azure portal. Each report will contain the Azure resource
 utilization of each office.
 Which Azure Resource Manager feature should you use before you generate the reports?
@@ -5422,7 +5422,7 @@ References:
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/resource-tagging/
 Community vote distribution
 A (100%)
-Question #358 Topic 1
+Question #358 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -5439,7 +5439,7 @@ Users with any type of Azure subscription (pay-as-you-go, Enterprise Agreement, 
 MSDN forums.
 References:
 https://azure.microsoft.com/en-us/support/plans/
-Question #359 Topic 1
+Question #359 
 This question requires that you evaluate the underlined text to determine if it is correct.
 If Microsoft plans to end support for an Azure service that does NOT have a successor service, Microsoft will provide notification at least 12
 months before.
@@ -5458,7 +5458,7 @@ Reference:
 https://support.microsoft.com/en-us/help/30881
 Community vote distribution
 A (100%)
-Question #360 Topic 1
+Question #360 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -5481,7 +5481,7 @@ it to $500. However, you can remove the spending limit. So, you either have no l
 Reference:
 https://docs.microsoft.com/en-us/azure/billing/billing-add-change-azure-subscription-administrator https://docs.microsoft.com/enus/
 azure/billing/billing-upgrade-azure-subscription https://docs.microsoft.com/en-us/azure/billing/billing-spending-limit
-Question #361 Topic 1
+Question #361 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -5504,7 +5504,7 @@ Reference:
 https://azure.microsoft.com/en-us/reservations/
 https://docs.microsoft.com/en-us/azure/virtual-machines/linux/b-series-burstable
 https://blogs.technet.microsoft.com/uspartner_ts2team/2014/10/10/azure-virtual-machines-stopping-versus-stopping-deallocating/
-Question #362 Topic 1
+Question #362 
 
 Your company has an Azure subscription that contains the following unused resources:
 ✑ 20 user accounts in Azure Active Directory (Azure AD)
@@ -5523,7 +5523,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/advisor/advisor-cost-recommendations#reduce-costs-by-deleting-or-reconfiguring-idle-virtual-networkgateways
 Community vote distribution
 B (100%)
-Question #363 Topic 1
+Question #363 
 
 Your company has an Azure subscription that contains the following unused resources:
 ✑ 20 user accounts in Azure Active Directory (Azure AD)
@@ -5541,7 +5541,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/advisor/advisor-cost-recommendations#reduce-costs-by-deleting-or-reconfiguring-idle-virtual-networkgateways
 Community vote distribution
 A (100%)
-Question #364 Topic 1
+Question #364 
 
 Your company has an Azure subscription that contains the following unused resources:
 ✑ 20 user accounts in Azure Active Directory (Azure AD)
@@ -5559,7 +5559,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/advisor/advisor-cost-recommendations#reduce-costs-by-deleting-or-reconfiguring-idle-virtual-networkgateways
 Community vote distribution
 B (100%)
-Question #365 Topic 1
+Question #365 
 HOTSPOT -
 How should you calculate the monthly uptime percentage? To answer, select the appropriate options in the answer area.
 NOTE: Each correct selection is worth one point.
@@ -5573,7 +5573,7 @@ Monthly Uptime Percentage is represented by the following formula:
 Monthly Uptime % = (Maximum Available Minutes-Downtime) / Maximum Available Minutes x 100.
 Reference:
 https://azure.microsoft.com/en-au/support/legal/sla/cloud-services/v1_0/
-Question #366 Topic 1
+Question #366 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
@@ -5588,7 +5588,7 @@ Data egress over a VPN is data 'going out' of Azure over the VPN. You are charge
 Reference:
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/manage-resource-groups-portal https://azure.microsoft.com/enus/
 pricing/details/bandwidth/ https://azure.microsoft.com/en-us/pricing/details/bandwidth/
-Question #367 Topic 1
+Question #367 
 This question requires that you evaluate the underlined text to determine if it is correct.
 A support plan solution that gives you best practice information, health status and notifications, and 24/7 access to billing information at the
 lowest possible cost is a Standard support plan.
@@ -5607,7 +5607,7 @@ Reference:
 https://azure.microsoft.com/en-us/support/plans/
 Community vote distribution
 C (100%)
-Question #368 Topic 1
+Question #368 
 In which Azure support plans can you open a new support request?
 A. Premier and Professional Direct only
 B. Premier, Professional Direct, and Standard only
@@ -5619,7 +5619,7 @@ Reference:
 https://azure.microsoft.com/en-us/support/plans/
 Community vote distribution
 D (80%) C (20%)
-Question #369 Topic 1
+Question #369 
 This question requires that you evaluate the underlined text to determine if it is correct.
 You can create an Azure support request from support.microsoft.com.
 Instructions: Review the underlined text. If it makes the statement correct, select `No change is needed.` If the statement is incorrect, select the
@@ -5636,7 +5636,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/azure-supportability/how-to-create-azure-support-request
 Community vote distribution
 B (100%)
-Question #370 Topic 1
+Question #370 
 
 Your company has an Azure subscription that contains the following unused resources:
 ✑ 20 user accounts in Azure Active Directory (Azure AD)
@@ -5654,7 +5654,7 @@ Reference:
 https://docs.microsoft.com/en-us/azure/advisor/advisor-cost-recommendations#reduce-costs-by-deleting-or-reconfiguring-idle-virtual-networkgateways
 Community vote distribution
 B (100%)
-Question #371 Topic 1
+Question #371 
 This question requires that you evaluate the underlined text to determine if it is correct.
 The Azure Standard support plan is the lowest cost option to receive 24x7 access to support engineers by phone.
 Instructions: Review the underlined text. If it makes the statement correct, select `No change is needed`. If the statement is incorrect, select the
@@ -5671,7 +5671,7 @@ Reference:
 https://azure.microsoft.com/en-gb/support/plans/
 Community vote distribution
 A (100%)
-Question #372 Topic 1
+Question #372 
 HOTSPOT -
 To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
@@ -5683,14 +5683,14 @@ AND
 LIMITED WARRANTY.
 Reference:
 https://azure.microsoft.com/en-gb/support/legal/preview-supplemental-terms/
-Question #373 Topic 1
+Question #373 
 HOTSPOT -
 Select the answer that correctly completes the sentence.
 Hot Area:
 Correct Answer:
 Reference:
 https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/2-compare-costs-tco-calculator
-Question #374 Topic 1
+Question #374 
 You need to compare a company's cloud usage to industry standard best practices.
 What should you use?
 A. Azure Monitor
@@ -5700,7 +5700,7 @@ D. Azure Advisor
 Correct Answer: A
 Community vote distribution
 D (82%) A (18%)
-Question #375 Topic 1
+Question #375 
 You need to start Azure Cloud Shell.
 What should you use?
 A. the Azure portal
@@ -5710,7 +5710,7 @@ D. an Azure Resource Manager (ARM) template
 Correct Answer: A
 Community vote distribution
 A (100%)
-Question #376 Topic 1
+Question #376 
 How many copies of data are maintained by an Azure Storage account that uses locally-redundant storage (LRS)?
 A. 3
 B. 4
@@ -5719,7 +5719,7 @@ D. 9
 Correct Answer: A
 Community vote distribution
 A (100%)
-Question #377 Topic 1
+Question #377 
 What enables a cloud service to adapt quickly to changing requirements?
 A. high availability
 B. predictability
@@ -5728,7 +5728,7 @@ D. agility
 Correct Answer: C
 Community vote distribution
 D (100%)
-Question #378 Topic 1
+Question #378 
 What is an example of vertical scaling in a cloud environment?
 A. adding an additional CPU to an existing Azure virtual machine
 B. adding an additional Azure virtual machine
@@ -5737,19 +5737,19 @@ D. adding an additional Azure App Service instance automatically
 Correct Answer: A
 Community vote distribution
 A (100%)
-Question #379 Topic 1
+Question #379 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
 Hot Area:
 Correct Answer:
-Question #380 Topic 1
+Question #380 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
 Hot Area:
 Correct Answer:
-Question #381 Topic 1
+Question #381 
 What additional resource is required by an Azure virtual machine?
 A. a virtual network
 B. a service endpoint
@@ -5758,13 +5758,13 @@ D. a public IP address
 Correct Answer: D
 Community vote distribution
 A (78%) D (22%)
-Question #382 Topic 1
+Question #382 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
 Hot Area:
 Correct Answer:
-Question #383 Topic 1
+Question #383 
 How many copies of data are maintained by an Azure Storage account that uses geo-redundant storage (GRS)?
 A. 3
 B. 4
@@ -5773,7 +5773,7 @@ D. 9
 Correct Answer: A
 Community vote distribution
 C (87%) 13%
-Question #384 Topic 1
+Question #384 
 What is used to grant permission to Azure Virtual Desktop resources?
 A. tags
 B. role-based access control (RBAC) roles
@@ -5782,13 +5782,13 @@ D. application security groups
 Correct Answer: B
 Community vote distribution
 B (100%)
-Question #385 Topic 1
+Question #385 
 HOTSPOT -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
 Hot Area:
 Correct Answer:
-Question #386 Topic 1
+Question #386 
 DRAG DROP
 -
 Match the cloud computing benefits to the appropriate requirements.
@@ -5796,7 +5796,7 @@ To answer, drag the appropriate benefit from the column on the left to its requi
 once, or not at all.
 NOTE: Each correct match is worth one point.
 Correct Answer:
-Question #387 Topic 1
+Question #387 
 DRAG DROP
 -
 Match the Azure services to the appropriate descriptions.
@@ -5804,12 +5804,12 @@ To answer, drag the appropriate service from the column on the left to its descr
 once, or not at all.
 NOTE: Each correct match is worth one point.
 Correct Answer:
-Question #388 Topic 1
+Question #388 
 HOTSPOT
 -
 Select the answer that correctly completes the sentence.
 Correct Answer:
-Question #389 Topic 1
+Question #389 
 Which cloud service model minimizes the management responsibility of a customer?
 A. infrastructure as a service (IaaS)
 B. platform as a service (PaaS)
@@ -5817,33 +5817,33 @@ C. software as a service (SaaS)
 Correct Answer: C
 Community vote distribution
 C (100%)
-Question #390 Topic 1
+Question #390 
 HOTSPOT
 -
 Select the answer that correctly completes the sentence.
 Correct Answer:
-Question #391 Topic 1
+Question #391 
 HOTSPOT
 -
 Select the answer that correctly completes the sentence.
 Correct Answer:
-Question #392 Topic 1
+Question #392 
 HOTSPOT
 -
 Select the answer that correctly completes the sentence.
 Correct Answer:
-Question #393 Topic 1
+Question #393 
 HOTSPOT
 -
 Select the answer that correctly completes the sentence.
 Correct Answer:
-Question #394 Topic 1
+Question #394 
 HOTSPOT
 -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
 Correct Answer:
-Question #395 Topic 1
+Question #395 
 DRAG DROP
 -
 Match the Azure storage services to the appropriate descriptions.
@@ -5851,18 +5851,18 @@ To answer, drag the appropriate storage service from the column on the left to i
 than once, or not at all.
 NOTE: Each correct match is worth one point.
 Correct Answer:
-Question #396 Topic 1
+Question #396 
 HOTSPOT
 -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
 Correct Answer:
-Question #397 Topic 1
+Question #397 
 HOTSPOT
 -
 Select the answer that correctly completes the sentence.
 Correct Answer:
-Question #398 Topic 1
+Question #398 
 You have an Azure web app.
 You need to manage the settings of the web app from an iPhone.
 What are two Azure management tools that you can use? Each correct answer presents a complete solution.
@@ -5874,20 +5874,20 @@ D. Azure Storage Explorer
 Correct Answer: BC
 Community vote distribution
 BC (100%)
-Question #399 Topic 1
+Question #399 
 HOTSPOT
 -
 You need to create a new Azure file share.
 What should you use? To answer, select the service in the answer area.
 NOTE: Each correct selection is worth one point.
 Correct Answer:
-Question #400 Topic 1
+Question #400 
 HOTSPOT
 -
 For each of the following statements, select Yes if the statement is true. Otherwise, select No.
 NOTE: Each correct selection is worth one point.
 Correct Answer:
-Question #401 Topic 1
+Question #401 
 What should you use to prevent traffic from an Azure virtual network from being routed to an Azure Storage account via the internet?
 A. a network security group (NSG)
 B. a public endpoint
@@ -5896,7 +5896,7 @@ D. a service endpoint
 Correct Answer: A
 Community vote distribution
 D (75%) A (25%)
-Question #402 Topic 1
+Question #402 
 Which service can replace a resource lock automatically if the lock is removed?
 A. Azure Information Protection (AIP)
 B. Azure Blueprints
@@ -5905,19 +5905,19 @@ D. Azure Advisor
 Correct Answer: B
 Community vote distribution
 B (100%)
-Question #403 Topic 1
+Question #403 
 HOTSPOT
 -
 You need to create a new user for an Azure subscription.
 What should you use? To answer, select the service in the answer area.
 NOTE: Each correct match is worth one point.
 Correct Answer:
-Question #404 Topic 1
+Question #404 
 HOTSPOT
 -
 Select the answer that correctly completes the sentence.
 Correct Answer:
-Question #405 Topic 1
+Question #405 
 You plan to collect and analyze event details for five Azure virtual machines.
 You need to run queries to compare the event details collected from all the virtual machines.
 Which two tools should you use? Each correct answer presents part of the solution.
@@ -5930,12 +5930,12 @@ E. Log Analytics
 Correct Answer: CE
 Community vote distribution
 CE (100%)
-Question #406 Topic 1
+Question #406 
 HOTSPOT
 -
 Select the answer that correctly completes the sentence.
 Correct Answer:
-Question #407 Topic 1
+Question #407 
 What should you use to track the costs of Azure resources?
 A. Azure Quickstart templates
 B. tags
@@ -5944,22 +5944,22 @@ D. usage and quotas
 Correct Answer: D
 Community vote distribution
 D (67%) B (33%)
-Question #408 Topic 1
+Question #408 
 HOTSPOT
 -
 Select the answer that correctly completes the sentence.
 Correct Answer:
-Question #409 Topic 1
+Question #409 
 HOTSPOT
 -
 Select the answer that correctly completes the sentence.
 Correct Answer:
-Question #410 Topic 1
+Question #410 
 HOTSPOT
 -
 Select the answer that correctly completes the sentence.
 Correct Answer:
-Question #411 Topic 1
+Question #411 
 You plan to reduce ongoing Azure expenditures.
 You need to identify which factors affect the costs of a resource.
 Which three factors should you identify? Each correct answer presents a complete solution.
@@ -5972,7 +5972,7 @@ E. the type of processed data
 Correct Answer: ACE
 Community vote distribution
 ACD (100%)
-Question #412 Topic 1
+Question #412 
 Your company has an Azure subscription that contains several resources.
 You need to identify which department is responsible for the cost of each resource.
 What should you use?

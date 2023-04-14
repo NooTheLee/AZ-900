@@ -1,3 +1,4 @@
 import az from "./az.txt";
+import azVi from "./azvi.txt";
 
-export {az };
+export { az, azVi };
