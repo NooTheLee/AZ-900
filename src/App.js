@@ -21,6 +21,7 @@ function App() {
 
     const handleData = (data) => {
         const aaa = data.split("Question ");
+        console.log('aaa', aaa);
         let bbb = [];
         aaa.forEach((element) => {
             if (!element) {
@@ -67,6 +68,7 @@ function App() {
             bbb.push(createData(question, a, b, c, d, e, n, explain));
         });
         bbb = bbb.sort(() => Math.random() - 0.5).filter(v => v.answer[0]);
+        console.log('bbb', bbb);
         setTopic(bbb);
     };
 
