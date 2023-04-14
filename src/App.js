@@ -69,12 +69,8 @@ function App() {
             if (!element) {
                 return;
             }
-            const temp = element.split('\r\n');
+            const temp = element.split('\n');
             let [question, a, b, c, d, e, n, explain] = handleArray(temp);
-            if (!question) {
-                const temp2 = a.split('\r\n');
-                [question, a, b, c, d, e, n, explain] = handleArray(temp2);
-            }
             bbb.push(createData(question, a, b, c, d, e, n, explain));
         });
         bbb = bbb.sort(() => Math.random() - 0.5).filter(v => v.answer[0]);
