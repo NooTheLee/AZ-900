@@ -71,7 +71,7 @@ const Question = ({ data, id, handleCheck, azVi = false, vietsub }) => {
                     {vietsub && <div className='text-green-500 '>{explainVi}</div>}
                 </>
             )}
-            <div className={`flex items-center mt-3 gap-x-4 ${azVi ? "opacity-0" : ""}`}>
+            <div className={`flex items-center mt-3 gap-x-4 ${azVi || result ? "opacity-0" : ""}`}>
                 <button
                     className='border-[1px] bg-green-500 px-4 py-2 text-white rounded-lg text-xl font-bold '
                     onClick={handleKQ}
