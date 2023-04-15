@@ -9,7 +9,7 @@ function App() {
 
     const [name, setName] = useState("az");
     const [topic, setTopic] = useState([]);
-    const [vietsub, setVietSub] = useState(true);
+    const [vietsub, setVietSub] = useState(false)   ;
 
     const createData = (q, a, b, c, d, e, n, _e) => {
         return {
@@ -20,7 +20,7 @@ function App() {
         };
     };
 
-    const handleArray = (arr) => {
+    const handleArray = (arr, vi) => {
         let question = "";
         let explain = "";
         let check = false;
@@ -46,8 +46,8 @@ function App() {
             } else if (j.includes("E.")) {
                 e = j;
                 continue;
-            } else if (j.includes("Correct Answer:")) {
-                n = j.replace("Correct Answer: ", "");
+            } else if (j.includes(!vi ? "Correct Answer:" : "Đáp án đúng: ")) {
+                n = j.replace(!vi ? "Correct Answer:" : "Đáp án đúng: ", "");
                 continue;
             }
             if (check) {
@@ -57,14 +57,14 @@ function App() {
         return [question, a, b, c, d, e, n, explain];
     };
 
-    const handleList = (aaa) => {
+    const handleList = (aaa, vi=false) => {
         let bbb = [];
         aaa.forEach((element) => {
             if (!element) {
                 return;
             }
             const temp = element.split("\n");
-            let [question, a, b, c, d, e, n, explain] = handleArray(temp);
+            let [question, a, b, c, d, e, n, explain] = handleArray(temp, vi);
             bbb.push(createData(question, a, b, c, d, e, n, explain));
         });
         return bbb;
@@ -74,7 +74,7 @@ function App() {
         const aaa = data.split("Question");
         const aaaVi = dataVi.split("-Câu hỏi #");
         let bbb = handleList(aaa);
-        let bbbVi = handleList(aaaVi);
+        let bbbVi = handleList(aaaVi, true);
         let leng = Array.from(Array(bbb.length - 1).keys());
         leng = leng.sort(() => Math.random() - 0.5);
 
@@ -82,6 +82,7 @@ function App() {
 
         for (const i of leng) {
             if (bbb[i]?.answer[0] && bbb[i]?.answer[1]) {
+                bbb[i].explain = bbb[i].explain + "=====>" + bbbVi[i].explain;
                 x1.push(bbb[i]);
                 x1.push(bbbVi[i]);
             }
@@ -133,19 +134,19 @@ function App() {
     };
 
     return (
-        <div className='h-screen w-screen px-20 overflow-x-hidden dark:bg-[#18191A] dark:text-[#E4E6EB] pb-10 '>
-            <div className='fixed top-[10vh] right-[5vw] flex gap-x-4 z-[20]'>
-                <div className=' border-[5px] border-green-600 w-[100px] h-[100px] flex items-center justify-center text-[50px] rounded-2xl text-green-700 font-[600] bg-[#18191A]  '>
+        <div className='h-screen w-screen md:px-20 overflow-x-hidden dark:bg-[#18191A] dark:text-[#E4E6EB] pb-10 '>
+            <div className='fixed top-5 md:top-[10vh] right-[5vw] flex gap-x-4 z-[20]'>
+                <div className=' border-[5px] border-green-600 w-[70px] h-[70px] text-xl md:w-[100px] md:h-[100px] md:text-[50px] flex items-center justify-center rounded-xl md:rounded-2xl text-green-700 font-[600] bg-[#18191A]  '>
                     {correct}
                 </div>
-                <div className=' border-[5px] border-red-600 w-[100px] h-[100px] flex items-center justify-center text-[50px] rounded-2xl text-red-700 font-[600] bg-[#18191A] '>
+                <div className='border-[5px]  w-[70px] h-[70px] text-xl md:w-[100px] md:h-[100px] md:text-[50px] flex items-center justify-center rounded-xl md:rounded-2xl font-[600] bg-[#18191A] border-red-600 w-[100px] text-red-700 '>
                     {incorrect}
                 </div>
             </div>
 
             <div
                 id='select'
-                className='w-full text-center text-red-600 text-[100px] font-extrabold my-10 '
+                className='w-full text-center text-red-600 text-[50px] md:text-[100px] font-extrabold my-4 md:my-10 '
             >
                 {topicName()}
             </div>
@@ -168,7 +169,7 @@ function App() {
                 </select>
             </div>
 
-            <div className='w-full grid-cols-2 md:grid gap-x-4'>
+            <div className='w-full grid-cols-2 pl-10 pr-0 md:grid gap-x-4'>
                 {topic &&
                     topic.length > 0 &&
                     topic.map((v, id) => {

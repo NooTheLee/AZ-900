@@ -5,42 +5,38 @@ const Question = ({ data, id, handleCheck, azVi = false, vietsub }) => {
     const [kq, setKq] = useState("");
     const [result, setResult] = useState("");
 
-    
-
     const handleKQ = () => {
         if (!data.answer[0]) {
             return;
         }
         let temp = "";
 
-        console.log(`--${kq}---`);
-        console.log(`data--${data.trueAnswer}---`);
-
         if (data.trueAnswer === kq) {
-            console.log("correct");
             temp = "Correct";
         } else {
-            console.log("Not", data.trueAnswer);
             temp = data.trueAnswer;
         }
-        console.log("temp", temp);
         setResult(temp);
         handleCheck(temp === "Correct" ? 1 : 0);
     };
+
+    const [explain, explainVi] = useMemo(() => {
+        return data.explain.split('=====>');
+    }, [data.explain]);
 
     if (!vietsub && azVi) {
         return <></>;
     }
 
     return (
-        <div className='col-span-1 mb-14'>
+        <div className='col-span-1 mb-4 md:mb-14'>
             <div className='flex items-start gap-x-2 mb-3 translate-x-[-40px] '>
                 {!azVi && (
                     <div className='text-xl font-extrabold w-10 h-10 flex items-center justify-center border-[2px] rounded-xl shrink-0 '>
                         {id + 1}.
                     </div>
                 )}
-                <div className='text-2xl mt-[3px]'> {data.question} </div>
+                <div className='text-lg md:text-2xl mt-[3px]'> {data.question} </div>
             </div>
             <div className='items-center justify-between w-full '>
                 <form className='flex flex-col items-start w-full gap-x-1'>
@@ -71,7 +67,8 @@ const Question = ({ data, id, handleCheck, azVi = false, vietsub }) => {
                             Answer: {result}
                         </div>
                     </div>
-                    <div className=''>{data.explain}</div>
+                    <div className=''>{explain}</div>
+                    {vietsub && <div className='text-green-500 '>{explainVi}</div>}
                 </>
             )}
             <div className={`flex items-center mt-3 gap-x-4 ${azVi ? "opacity-0" : ""}`}>
