@@ -11,7 +11,7 @@ const Question = ({ data, id, handleCheck, azVi = false, vietsub }) => {
         }
         let temp = "";
 
-        if (data.trueAnswer === kq) {
+        if (data.trueAnswer.trim() === kq.trim()) {
             temp = "Correct";
         } else {
             temp = data.trueAnswer;
